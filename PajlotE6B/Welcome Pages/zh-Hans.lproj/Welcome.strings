@@ -1,0 +1,54 @@
+
+/* Class = "UILabel"; text = "Paragraph page 2"; ObjectID = "4O3-8S-ndY"; */
+"4O3-8S-ndY.text" = "Paragraph page 2";
+
+/* Class = "UILabel"; text = "Pajlot E6B"; ObjectID = "5Qc-r4-8c8"; */
+"5Qc-r4-8c8.text" = "Pajlot E6B";
+
+/* Class = "UIViewController"; title = "page_three"; ObjectID = "6Bk-7z-y5C"; */
+"6Bk-7z-y5C.title" = "page_three";
+
+/* Class = "UIViewController"; title = "page_two"; ObjectID = "As2-WX-kkB"; */
+"As2-WX-kkB.title" = "page_two";
+
+/* Class = "UIButton"; normalTitle = "http://pajlot.pl"; ObjectID = "FDA-nm-kTI"; */
+"FDA-nm-kTI.normalTitle" = "http://pajlot.pl";
+
+/* Class = "UILabel"; text = "Go to \nSettings Wizard"; ObjectID = "Fbg-9Q-1OU"; */
+"Fbg-9Q-1OU.text" = "Go to \nSettings Wizard";
+
+/* Class = "UIButton"; normalTitle = "Pomiń"; ObjectID = "JwS-uO-gvU"; */
+"JwS-uO-gvU.normalTitle" = "Pomiń";
+
+/* Class = "UILabel"; text = "Headline page 3"; ObjectID = "LMQ-U2-ENb"; */
+"LMQ-U2-ENb.text" = "Headline page 3";
+
+/* Class = "UILabel"; text = "If something is unclear to You, please check 'Help' tab"; ObjectID = "PK1-8Q-haj"; */
+"PK1-8Q-haj.text" = "If something is unclear to You, please check 'Help' tab";
+
+/* Class = "UILabel"; text = "Paragraph page 1"; ObjectID = "U1n-Re-bqs"; */
+"U1n-Re-bqs.text" = "Paragraph page 1";
+
+/* Class = "UILabel"; text = "Headline page 2"; ObjectID = "Ux6-L9-KYk"; */
+"Ux6-L9-KYk.text" = "Headline page 2";
+
+/* Class = "UILabel"; text = "Check our others applications"; ObjectID = "aSk-FW-wSh"; */
+"aSk-FW-wSh.text" = "Check our others applications";
+
+/* Class = "UIViewController"; title = "page_one"; ObjectID = "gL3-AW-mkd"; */
+"gL3-AW-mkd.title" = "page_one";
+
+/* Class = "UILabel"; text = "Try Pajlot E6B today, you will not be disappointed, because it is tried and tested  every day.\n"; ObjectID = "j1C-Vp-y36"; */
+"j1C-Vp-y36.text" = "Try Pajlot E6B today, you will not be disappointed, because it is tried and tested  every day.\n";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "nQl-M6-nCe"; */
+"nQl-M6-nCe.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Paragraph page 3"; ObjectID = "sGq-F2-Elf"; */
+"sGq-F2-Elf.text" = "Paragraph page 3";
+
+/* Class = "UIViewController"; title = "page_final"; ObjectID = "wLB-dP-Clg"; */
+"wLB-dP-Clg.title" = "page_final";
+
+/* Class = "UILabel"; text = "Headline page 1"; ObjectID = "xzb-IW-gFL"; */
+"xzb-IW-gFL.text" = "Headline page 1";

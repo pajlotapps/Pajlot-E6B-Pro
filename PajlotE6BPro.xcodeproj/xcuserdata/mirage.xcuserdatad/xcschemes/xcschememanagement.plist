@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>PajlotE6B PL.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>PajlotE6B testowo iPhone X.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>PajlotE6B.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>211977041D9AE1260080F43C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2119771B1D9AE1270080F43C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>211977261D9AE1270080F43C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>66439B681E06854700809FD0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

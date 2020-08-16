@@ -1,0 +1,228 @@
+
+//Welcome Guide
+
+"WelcomeGuideH1" = "Kalkulator Lotniczy E6B";
+"WelcomeGuideH2" = "Wiele użytecznych funkcji";
+"WelcomeGuideH3" = "Aplikacja tworzona przez pilotów";
+"WelcomeGuideH4" = "Przejdź do \nKreatora Ustawień Początkowych";
+
+"WelcomeGuideP1" = "Gratulacje,\n właśnie znalazłeś prawdopodobnie \nnajlepszy kalkulator lotniczy \nna urządzenia z systemem iOS";
+"WelcomeGuideP2" = "Pajlot E6B pomoże Ci \nszybko i sprawnie rozwiązywać \nproblemy związane z obliczeniami nawigacyjnymi oraz planowaniem lotu.";
+"WelcomeGuideP3" = "Pajlot E6B jest tworzone i rozwijane przez pilotów dla pilotów.";
+"WelcomeGuideP4" = "Jeśli coś pozostało niejasne, zachęcamy do odwiedzenia zakładki 'Pomoc'";
+
+//Button labels
+"linkBtn" = "http://pajlot.pl";
+"JumpToCreatorBtn" = "OK";
+"SkipBtn" = "Pomiń";
+"ResetBtn" = "Resetuj";
+"CancelBtn" = "Anuluj";
+"DoneBtn" = "Gotowe";
+"MoreInfoBtn" = "DOWIEDZ SIĘ WIĘCEJ";
+"NextBtn" = "DALEJ";
+"QuitBtn" = "OPUŚĆ KREATOR";
+"jumpToWizardBtn" = "PRZEJDŹ DO KREATORA";
+"loadDefaultsBtn" = "WCZYTAJ WARTOŚCI DOMYŚLNE";
+"finishBtn" = "ZAKOŃCZ";
+
+//popup Info
+"popUpLbl" = "Opcja dostępna tylko w wersjii PRO";
+
+//SetupWizard
+"TitleOFTheScreenWizard" = "Kreator \nUstawień Początkowych";
+"AdditionalInfoWizard" = "W przyszłości możesz zmienić te wartości w zakładkach \nUstawienia oraz Jednnostki.";
+"WizardInfo" = "Wczytaj wartości domyślne \nlub przejdź do \nkreatora ustawień początkowych";
+"WizardSpeedInfo" = "Podaj maksymalną wartość oraz \n jednostkę prędkości, która będzie używana do obliczeń.";
+"WizardDistanceInfo" = "Podaj maksymalną wartość oraz \n jednostkę odległości, która będzie używana do obliczeń.";
+"WizardPressureInfo" = "Podaj wartość oraz jednostkę ciśnienia \natmosferycznego, która będzie używana do obliczeń.";
+"WizardTemperatureInfo" = "Podaj wartość oraz jednostkę \n temperatury powietrza, która będzie \nużywana do obliczeń.";
+"WizardElevationInfo" = "Podaj wartość elewacji \n lotniska, która będzie używana do obliczeń.";
+"WizardWindInfo" = "Podaj kierunek, prędkość wiatru oraz jednostkę, która będzie używana do obliczeń.";
+"WizardFuelInfo" = "Podaj wartość oraz jednostkę \n godzinowego zużycia paliwa, która będzie używana do obliczeń.\n Dodatkowo określ rodzaj paliwa.";
+"WizardVariationInfo" = "Określ wartość i kierunek \ndeklinacji magnetycznej (ΔM).";
+"WizardUnitsInfo" = "Dokonaj wyboru pozostałych jednostek.";
+
+"WizardInfoP1" = "Kreator pomaga skonfigurować interfejs aplikacji. \nWartości maksymalne służą do poprawnego działania \nsliderów poszczególnych funkcji, które mogą służyć do \nwprowadzania wartości.";
+"WizardInfoP2" = "Możesz w każdej chwili zaktualizować te wartości \nwchodząc w zakładkę ustawień.";
+"WizardInfoP3" = "Kreator pomoże także w wyborze rodzajów jednostek \nposzczególnych parametrów. Je także możesz \nw dowolnym momencie zmieniać. Wartości zostaną \nautomatycznie przeliczone na nowe jednostki.";
+"WizardInfoP4" = "Jeśli opuścisz kreator przed uzupełnieniem wszystkich \nekranów, aplikacja wczyta wartości domyślne.";
+
+//Disclaimer Storyboard
+"DisclaimerHeadline" = "O S T R Z E Ż E N I E";
+"InfoHeadline" = "I N F O R M A C J E";
+
+"WelcomeHeadline" = "WITAJ";
+"ParagrafOne" = "Ta aplikacja nie powinna być używana w zastępstwie profesionalnych oraz certyfikowanych kalkulatorów lub innych urządzeń tego typu.";
+"ParagrafTwo" = "JEŻELI ZDECYDUJESZ SIĘ WYKORZYSTYWAĆ TĄ APLIKACJĘ PODCZAS PLANOWANIA REALNYCH ZADAŃ LOTNICZYCH, PAMIĘTAJ, ŻE ROBISZ TO NA WŁASNĄ ODPOWIEDZIALNOŚĆ.";
+"ParagrafThree" = "Dokładamy wszelkich starań aby każda z funkcji działała prawidłowo, nie mniej jednak, nie możemy zagwarantować, że każdy dostarczony wynik będzie pozbawiony błędów.";
+"ParagrafFour" = "Twórcy nie mogą być pociągani do odpowiedzialności za jakiekolwiek uszkodzenia powstałe w wyniku użytkowania tej aplikacji.";
+"ParagrafFive" = "Jeśli nie chcesz, aby to ostrzeżenie było wyświetlane przy starcie aplikacji odznacz stosowną pozycję w opcjach.";
+"OKBtn" = "ROZUMIEM";
+
+//Functions List
+"Section0" = "PRĘDKOŚĆ/DYSTANS/CZAS";
+"Section1" = "KĄTY I SKŁADOWE";
+"Section2" = "OBLICZENIA PALIWOWE";
+"Section3" = "OBLICZENIA POGODOWE";
+"SectionDef" = "Funkcje PAJLOT E6B";
+
+"SpeedLabel" = "Prędkość postępowa";
+"VspeedLabel" = "Prędkość pionowa";
+"DistanceLabel" = "Dystans";
+"TimeLabel" = "Czas lotu";
+"WCALabel" = "Kąt znoszenia";
+"GlidePathLabel" = "Ścieżka schodzenia";
+"FuelLabel" = "Godzinowe zużycie paliwa";
+"EnduranceLabel" = "Długotrwałość lotu";
+"WeightLabel" = "Objętość/ciężar";
+"WindComponetLabel" = "Składowe wiatru";
+"TASLabel" = "Prędkość rzeczywista";
+"DensityAltLabel" = "Wysokość gęstościowa";
+
+//Settings Page
+"SettingsHL" = "Ustawienia";
+"SettingsTVSection0" = "WARTOŚCI GRANICZNE";
+"SettingsTVSection1" = "WARTOŚCI WEJŚCIOWE";
+"SettingsTVSection2" = "WARTOŚCI STAŁE";
+"SettingsTVSectionDef" = "USTAWIENIA";
+
+"PressureLabel" = "Ciśnienie";
+"TempLabel" = "Temperatura";
+"ElevationLabel" = "Elewacja lotniska";
+"windSpeedLabel" = "Prędkość wiatru";
+"windDirectionLabel" = "Kierunek wiatru";
+"fuelFlowRateLabel" = "Zużycie paliwa";
+"FuelTypeLabel" = "Rodzaj paliwa";
+
+//Options
+"OptionsText" = "Dokładamy wszelkich starań, aby interfejs \naplikacji był jak najbardziej przyjazny dla \nużytkownika, a jej funkcje użyteczne podczas \nplanowania lotu. \n\nJeśli masz jakiś pomysł na usprawnienie \naplikacji albo być może znalazłeś błąd lub \nodkryłeś, że aplikacja działa nieprawidłowo, \nskontaktuj się z nami.";
+
+"OptionsGuideStatus" = "Przewodnik powitalny";
+"OptionsWizzardStatus" = "Kreator ustawień";
+"OptionsDisclaimerStatus" = "Ostrzeżenie";
+"OptionsInfoLbl" = "Jeśli chcesz, aby przy włączaniu aplikacji wyświetlane były \npowyższe ekrany, zaznacz stosowne opcje.";
+"OptionsLanguageLbl" = "Zmień język";
+"OptionsContactLbl" = "Kontakt";
+"OptionsWebsiteLbl" = "Strona www";
+"OptionsDonateLbl" = "Wesprzyj twórców";
+"OptionsRateLbl" = "Oceń aplikację";
+
+"ONstatus" = "Wł.";
+"OFFstatus" = "Wył.";
+
+//Welcome Guide
+"WelcomeGuideTitle" = "Przewodnik powitalny";
+"GuideLbl" = "Przewodnik powitalny";
+"WGinfo1" = "Jeśli chcesz, aby przy włączaniu aplikacji, wyświetlany był \n 'Przewodnik powitalny', pozostaw tą opcję aktywną.";
+"WGinfo2" = "Klikając w powyższy klawisz wyświetlisz 'Przewodnik powitalny'";
+"WelcomeGuideBtn" = "PRZEWODNIK POWITALNY";
+
+//Setting Wizzard
+"SettingWizzardTitle" = "Kreator ustawień";
+"WizzardLbl" = "Kreator ustawień";
+"SWinfo1" = "Jeśli chcesz, aby przy włączaniu aplikacji, wyświetlany był \n 'Kreator ustawień', pozostaw tą opcję aktywną.";
+"SWinfo2" = "Klikając w powyższy klawisz wyświetlisz 'Kreator ustawień'";
+"SettingWizzardBtn" = "KREATOR USTAWIEŃ";
+
+//Desclimer
+"DisclaimerTitle" = "Ostrzeżenie";
+"DisclaimerLbl" = "Ostrzeżenie";
+"Dinfo1" = "Jeśli chcesz, aby przy włączaniu aplikacji, wyświetlany był \n 'Ostrzeżenie', pozostaw tą opcję aktywną.";
+"Dinfo2" = "Klikając w powyższy klawisz wyświetlisz 'Ostrzeżenie'";
+"DisclaimerVCBtn" = "WYŚWIETL OSTRZEŻENIE";
+
+//Donate
+"DonateTitle" = "Wesprzyj twórców";
+"ShowHideLbl" = "Pokaż/ukryj QR Code";
+"DonateInfo1" = "Dzięki za używanie wersji Pro! Jeśli chciałbyś nas dodatkowo zmotywować do pracy, możesz rozważyć przekazanie darowizny.";
+"DonateInfo2" = "Poniżej znajduje się adres publiczny porfela BTC";
+
+//Change language
+"ChangeLanguageTitle" = "Wybierz język";
+"PolishLangLbl" = "Polski";
+"EnglishLangLbl" = "Angielski";
+"ChineseLangLbl" = "Chiński";
+"SLinfo1" = "Wybierz interesujący Cię język z dostępnych powyżej.";
+"SLinfo2" = "Czasami, aby język aplikacji został poprawnie zmieniony, \naplikacja powinna zostać uruchomiona ponownie.";
+
+//ALERTS
+"messageTitle1" = "UWAGA!!!";
+"message1" = "Wartości domyślne już zostały wczytane.";
+"message2" = "Czy na pewno chcesz przywrócić wartości domyślne?";
+"messageReset" = "Resetuj";
+"messageCancel" = "Anuluj";
+
+"messageTitle2" = "Deklinacja magnetyczna";
+"message3" = "Podaj wartość deklinacji magnetycznej (ΔM) uwzględniając jej kierunek (E(+) - wschodnia lub W(-) - zachodnia).";
+
+"messageTitle3" = "Ciężar właściwy paliwa";
+"message4" = "Ciężar właściwy paliwa (SG) \n(0.79 JET A1 'AVTUR' / 0.72 AVGAS) \njest zależny od panującej temperatury otoczenia oraz rodzaju paliwa. \n\nObliczenia bazują na Międzynarodowej Atmosferze Wzorcowej (ISA) przyjmując współczynniki dla temperatury na średnim poziome morza (MSL)";
+"messageGotIt" = "Rozumiem";
+"message5" = "Czy na pewno chcesz powrócić do domyślnych jednostek?";
+
+"messageTitle6" = "PROBLEM Z SIECIĄ";
+"message6" = "Sprawdź połączenie z siecią, brak internetu.";
+
+//UNITS
+"UnitsHL" = "Jednostki";
+"UnitsSection0" = "PODSTAWOWE";
+"UnitsSection1" = "INNE";
+"UnitsSection2" = "DODATKOWE";
+"UnitsSectionDef" = "JEDNOSTKI";
+"AltitideLabel" = "Wysokość";
+"VolumeLabel" = "Objętość";
+"UnitsWeightLabel" = "Masa";
+"AngleLabel" = "Wartości kątowe";
+"FuelAmountLabel" = "Paliwo";
+
+//Functions VC: WCA
+"WindDirectionLabel" = "Kierunek wiatru";
+"CourseLabel" = "Kierunek lotu";
+
+//Functions VC: Wind Component
+"HWC" = "Czołowa składowa wiatru";
+"CWC" = "Boczna składowa wiatru";
+
+//Functions VS: Endurance
+"setDefaultFuelFlow" = "DOMYŚLNE ZUŻYCIE PALIWA";
+
+//FuelConversion more info VC
+"FuelP1" = "Ciężar właściwy paliwa (SG) jest zależny od panującej temperatury otoczenia oraz rodzaju paliwa.";
+"FuelP2" = "Obliczenia bazują na międzynarodowej \natmosferze wzorcowej (ISA). \nPrzyjmuje się współczynniki dla temperatury \npanującej na średnim poziome morza (MSL)";
+"FuelP3" = "Dla JET A1 (AVTUR od 'Aviation Turbine') \nprzyjmuje się następujące zależności:";
+"FuelP4" = "Natomiast dla AVGAS \nprzyjmuje się poniższe współczynniki:";
+
+//Density altitude more info VC
+"DensityAltInfo1" = "Wysokość gęstościowa (Density Altitude - DA) jest to wysokość ciśnieniowa (Pressure Altitude - PA) poprawiona o błąd spowodowany niestandardową temperaturą otoczenia.";
+"DensityAltInfo2" = "Wraz ze wzrostem temperatury oraz wysokości, gęstość powietrza maleje. Duża wysokość gęstościowa wpływa znacząco na osiągi statku powietrznego.";
+"DensityAltInfo3" = "W ciepły i wilgotny dzień, SP będzie przyspieszał wolniej, będzie potrzebował dłuższego rozbiegu, będzie potrzebował większej prędkości do zapewnienia niezbędnej do startu siły nośnej, a także będzie wolniej się wznosił.";
+"DensityAltInfo4" = "Wysokość ciśnieniowa (PA) to wartość odczytana z wysokościomierza przy ustawieniu go na wartość ciśnienia panującego na poziomie morza - QNE \n(tzw. ciśnienie standardowe) wynoszące:";
+"DensityAltInfo5" = "Temperatura ISA to wartość standardowej temperatury panującej na danej wysokości. Na poziomie morza wynosi ona 15°C. \nWraz ze wzrotem wysokości o 1 000 ft przyjmuje się, że temperatura spada o 2°C";
+
+//Glide path  more info VC
+"GPTitle" = "Ścieżka zniżania";
+"GPformula1" = "TAN(kąt °) = descent rate %";
+"GPformula2" = "kąt (°) ≈ Rate (%) x 0.6";
+"GPInfo1" = "Współczynnik ścieżki schodzenia \n(descent rate) obliczany jest według \nponiższej zależności funkcji tangens:";
+"GPInfo2" = "Dla standardowej 3° ścieżki podejścia można \nstosować tak zwaną 'Regułę 3'.";
+"GPInfo3" = "Mówi ona, że na każde przebyte 3 NM statek \npowietrzny zmniejszy wysokość o 1 000 ft (~300 m).";
+"GPInfo4" = "Aby w pamięci obliczyć współczynnik (Rate) \nzniżania wyrażony w ft/NM można posłużyć się poniższymi zależnościami:";
+
+//Contact
+"ContactTitle" = "Kontakt";
+"ContactInfo1" = "Odwiedź nasz funpage na jednym z poniższych portali społecznościowych. ";
+"ContactInfo2" = "Możesz także kliknąć w ikonkę poniżej i wysłać nam maila:";
+
+//TimeCalc
+"TimeCalcTitle" = "Kalkulator Czasu";
+
+//Weather
+"WxTitle" = "Wybierz lotnisko";
+"WxPlaceholder" = "LOTNISKO";
+"loadingMETAR" = "Pobieram depesze METAR";
+"loadingTAF" = "Pobieram depesze TAF";
+"noWxInfo" = ": Brak aktualnej depeszy";
+"aerodromes" = "Dostępne lotniska:";
+"TAFwillBeLoad" = "Treść depeszy TAF zostanie \nwyświelona po wyborze lotniska";
+"METARwillBeLoad" = "Treść depeszy METAR zostanie \nwyświelona po wyborze lotniska";
+

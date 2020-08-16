@@ -1,0 +1,242 @@
+
+//Welcome Guide
+
+"WelcomeGuideH1" = "E6B Aviation Calculator";
+"WelcomeGuideH2" = "Many features";
+"WelcomeGuideH3" = "From pilots to pilots";
+"WelcomeGuideH4" = "Go to \nSettings Wizard";
+
+"WelcomeGuideP1" = "Congratulations, \nyou have found one of the finest E6B aviation flight calculators available for Apple iPad and iPhone.";
+"WelcomeGuideP2" = "You will find Pajlot E6B beneficial in helping to solve the planning and navigating problems associated \nmainly  with flying.";
+"WelcomeGuideP3" = "E6B calculator is created and develop by pilots for pilots. \nSoftware includes the real \ncalculations, not 'rule of thumb’ estimates like others app.";
+"WelcomeGuideP4" = "If something is unclear to You, \nplease check 'Help' tab.";
+
+//Button labels
+"linkBtn" = "http://pajlot.pl";
+"JumpToCreatorBtn" = "OK";
+"SkipBtn" = "Skip";
+"ResetBtn" = "Reset";
+"CancelBtn" = "Cancel";
+"DoneBtn" = "Done";
+"MoreInfoBtn" = "LEARN MORE ABOUT";
+"NextBtn" = "NEXT";
+"QuitBtn" = "QUIT WIZARD";
+"jumpToWizardBtn" = "JUMP INTO SETTINGS WIZARD";
+"loadDefaultsBtn" = "LOAD DEFAULT PRESET";
+"finishBtn" = "FINISH";
+
+//popup Info
+"popUpLbl" = "Feature available only in PRO version";
+
+//SetupWizard
+"TitleOFTheScreenWizard" = "Settings Wizard";
+"AdditionalInfoWizard" = "You will be able to change this data in \nSettings and Units tabs.";
+"WizardInfo" = "Load default preset \nor jump into \nsettings wizard.";
+"WizardSpeedInfo" = "Set the maximum value \nof speed and its unit.";
+"WizardDistanceInfo" = "Set the maximum value \nof distance and its unit.";
+"WizardPressureInfo" = "Set the value of atmospheric \npressure and its unit.";
+"WizardTemperatureInfo" = "Set the value of outside \ntemperature and its unit.";
+"WizardElevationInfo" = "Set the value of airfield \nelevation and its unit. ";
+"WizardWindInfo" = "Set the direction and value \nof wind and its unit.";
+"WizardFuelInfo" = "Set the value of \nfuel flow rate and its unit. Make the selection of fuel type.";
+"WizardVariationInfo" = "Set the value and direction of the magnetic declination - variation (ΔM).";
+"WizardUnitsInfo" = "Make the selection of other units.";
+
+
+"WizardInfoP1" = "The settings wizard helps You configure the application interface. The maximum values are used for proper functioning of sliders of individual functions, \nwhich can be used to enter values.";
+"WizardInfoP2" = "You can update these values at any time by entering the settings tab.";
+"WizardInfoP3" = "The settings wizard will also allow to choose the unit types of individual parameters. \nYou can change them at any time. The values will be automatically converted.";
+"WizardInfoP4" = "If You leave settings wizard before filling all data, \napp will load defaults values.";
+
+//Disclaimer Storyboard
+"DisclaimerHeadline" = "D I S C L A I M E R";
+"InfoHeadline" = "I N F O R M A T I O N";
+
+"WelcomeHeadline" = "WELCOME TO";
+"ParagrafOne" = "This software is not intended to replace a professional and certified aviation calculators or similar devices.";
+"ParagrafTwo" = "IF YOU DECIDE TO USE THIS SOFTWARE DURING REAL TIME FLIGHT PLANNING YOU DO THIS AT YOUR OWN RISK.";
+"ParagrafThree" = "We take every effort to ensure that the functionality of each function is working properly, but we cannot guarantee the accuracy of the results.";
+"ParagrafFour" = "The authors cannot be held liable for any damages arising from the use of this software.";
+"ParagrafFive" = "If You don't want see that pop up message at every application start, switch off the appropriate option.";
+"OKBtn" = "GOT IT";
+
+//Functions List
+"Section0" = "SPEED/DISTANCE/TIME";
+"Section1" = "ANGLE & COMPONENTS";
+"Section2" = "FUEL CALCULATIONS";
+"Section3" = "WX CALCULATIONS";
+"SectionDef" = "PAJLOT E6B Functions";
+
+"SpeedLabel" = "Speed";
+"VspeedLabel" = "Vertical Speed";
+"DistanceLabel" = "Distance";
+"TimeLabel" = "Flight time";
+"WCALabel" = "Drift angle";
+"GlidePathLabel" = "Glide path";
+"FuelLabel" = "Fuel flow (h)";
+"EnduranceLabel" = "Endurance";
+"WeightLabel" = "Volume/weight";
+"WindComponetLabel" = "Wind component";
+"TASLabel" = "True air speed";
+"DensityAltLabel" = "Density altitude";
+
+//Settings Page
+"SettingsHL" = "Settings";
+"SettingsTVSection0" = "SLIDERS MAX VALUE";
+"SettingsTVSection1" = "INITIAL VALUES";
+"SettingsTVSection2" = "CONSTANTS VALUES";
+"SettingsTVSectionDef" = "SETTINGS";
+
+"PressureLabel" = "Pressure";
+"TempLabel" = "Temperature (OAT)";
+"ElevationLabel" = "Airfield elevation";
+"windSpeedLabel" = "Wind speed";
+"windDirectionLabel" = "Wind direction";
+"fuelFlowRateLabel" = "Fuel flow rate";
+"FuelTypeLabel" = "Fuel type";
+
+//Options
+"OptionsText" = "We make every effort to ensure that the E6B interface is the most user-friendly and its functions as useful as it \npossible for flight planning. \n\nIf you have any idea to improvements or maybe you have found an error or discovered that the app is not working properly, please feel free and contact us immediately.";
+
+"OptionsGuideStatus" = "Welcome guide";
+"OptionsWizzardStatus" = "Settings wizard";
+"OptionsDisclaimerStatus" = "Disclaimer";
+"OptionsInfoLbl" = "If you want display screens mentioned above at application startup, check appropriate options.";
+"OptionsLanguageLbl" = "Change language";
+"OptionsContactLbl" = "Contact";
+"OptionsWebsiteLbl" = "Visit website";
+"OptionsDonateLbl" = "Donate";
+"OptionsRateLbl" = "Rate app";
+
+"ONstatus" = "ON";
+"OFFstatus" = "OFF";
+
+//Welcome Guide
+"WelcomeGuideTitle" = "Welcome guide";
+"GuideLbl" = "Welcome guide";
+"WGinfo1" = "If you want display 'Welcome guide' at application startup, leave that option checked.";
+"WGinfo2" = "Click the above button to display the 'Welcome Guide'";
+"WelcomeGuideBtn" = "WELCOME GUIDE";
+
+//Setting Wizzard
+"SettingWizzardTitle" = "Setting wizard";
+"WizzardLbl" = "Setting wizard";
+"SWinfo1" = "If you want display 'Setting wizard' at application startup, leave that option checked.";
+"SWinfo2" = "Click the above button to display the 'Setting wizard'";
+"SettingWizzardBtn" = "SETTING WIZARD";
+
+//Desclimer
+"DisclaimerTitle" = "Disclaimer";
+"DisclaimerLbl" = "Disclaimer";
+"Dinfo1" = "If you want display 'Disclaimer info' at application startup, leave that option checked.";
+"Dinfo2" = "Click the above button to display the 'Disclaimer info'";
+"DisclaimerVCBtn" = "SHOW DISCLAIMER";
+
+//Donate
+"DonateTitle" = "Donate";
+"ShowHideLbl" = "Show/hide QR Code";
+"DonateInfo1" = "Thank you for using pro version. \nIf you would like to motivate us further, consider donating to us.";
+"DonateInfo2" = "Below you can find public key and QR code \nto our BTC wallet.";
+
+//Change language
+"ChangeLanguageTitle" = "Choose language";
+"PolishLangLbl" = "Polish";
+"EnglishLangLbl" = "English";
+"ChineseLangLbl" = "Chinese";
+"SLinfo1" = "Choose app interface language from options available above.";
+"SLinfo2" = "Sometimes the app should be restarted to change language correctly.";
+
+//Upgrade Pro
+"UpgradeH1" = "Pajlot - applications for aviation";
+"UpgradeP1" = "The E6B application from Pajlot.pl is a response to the niche on the Polish market of mobile apps for aviation and pilots.";
+"UpgradeH2" = "Check what beside lack of advertisements offer PRO version";
+"UpgradeP2" = "Thank you for using our software!";
+"e6bproBtn" = "Pajlot E6B PRO";
+"featureAvailableOnlyForPro" = "Function available only in PRO version";
+
+//Upgrade popup
+"soonInAppStoreText" = "AVAILABLE IN APP STORE!";
+"featuresTextFieldText" = "• FRESH INTERFACE\n• NEW FEATURES:\n\t• WIND COMPONENTS \t• TRUE AIR SPEED\n\t• ENDURANCE\n\t• VERTICAL SPEED\n\t• DENSITY ALTITUDE\n• TIME CALCULATOR (soon)\n• UNIT CONVERTER\n• NO ADVERTS\n• FREQUENT UPDATES";
+"goToAppStoreBtn" = "VISIT APP STORE";
+"notInterestedBtn" = "NOT INTRESTED";
+
+//ALERTS
+"messageTitle1" = "WARNING!!!";
+"message1" = "Defaults values have been already loaded.";
+"message2" = "Are you sure to reset values to defaults?";
+"messageReset" = "Reset";
+"messageCancel" = "Cancel";
+
+"messageTitle2" = "Magnetic declination";
+"message3" = "Set value of variation (ΔM) \nremember about direction \n(E(+) - east or W(-) - west).";
+
+"messageTitle3" = "Specific gravity";
+"message4" = "Specific gravity of fuel (SG) \n(0.79 JET A1 'AVTUR' / 0.72 AVGAS) \ndepends from \ntemperature and fuel type. \n\nThe calculations are based \non the International Standard Atmosphere (ISA) assuming coefficients for the temperature \nat medium sea level (MSL)";
+"messageGotIt" = "GOT IT";
+"message5" = "Are you sure to reset to defaults units?";
+
+"messageTitle6" = "NETWORK";
+"message6" = "There is no internet, check your connection.";
+
+//UNITS
+"UnitsHL" = "Units";
+"UnitsSection0" = "MAIN";
+"UnitsSection1" = "OTHERS";
+"UnitsSection2" = "ADDITIONAL";
+"UnitsSectionDef" = "UNITS";
+"AltitideLabel" = "Altitude";
+"VolumeLabel" = "Volume";
+"UnitsWeightLabel" = "Weight";
+"AngleLabel" = "Angle values";
+"FuelAmountLabel" = "Fuel";
+
+//Functions VC: WCA
+"WindDirectionLabel" = "Wind direction";
+"CourseLabel" = "Course";
+
+//Functions VC: Wind Component
+"HWC" = "Headwind component";
+"CWC" = "Crosswind component";
+
+//Functions VS: Endurance
+"setDefaultFuelFlow" = "DEFAULT FUEL FLOW RATE";
+
+//FuelConversion more info VC
+"FuelP1" = "The specific gravity of the fuel (SG) \ndepends on the \nambient temperature and fuel type.";
+"FuelP2" = "The calculations are based on the \nInternational Standard Atmosphere (ISA). \nThe coefficients are assumed for \nthe temperature at medium sea level (MSL).";
+"FuelP3" = "For JET A1 (AVTUR from 'Aviation Turbine'), \nthe following relationships are assumed:";
+"FuelP4" = "For AVGAS, the following factors are used:";
+
+//Density altitude more info VC
+"DensityAltInfo1" = "Density Altitude (DA) is the pressure altitude (PA) corrected for error \ndue to non-standard ambient temperature.";
+"DensityAltInfo2" = "As the temperature and altitude increase, the air density decreases. \nThe high density significantly affects the performance of the aircraft.";
+"DensityAltInfo3" = "On a warm and humid day, the A/C will accelerate slower, it will need a longer run, it will need a higher speed to provide the lift necessary to take off and climb rate will be lower.";
+"DensityAltInfo4" = "Pressure altitude (PA) is the value read from the altimeter when it is set to the pressure at sea level - QNE (called standard pressure) of:";
+"DensityAltInfo5" = "The ISA temperature is the value of the \nstandard temperature at a given altitude. \nAt the sea level, it is 15 °C. \nWith a 1 000 ft rise, it is assumed that the temperature drops by 2 °C";
+
+//Glide path  more info VC
+"GPTitle" = "Glide path";
+"GPformula1" = "TAN(angle °) = descent rate %";
+"GPformula2" = "angle (°) ≈ Rate (%) x 0.6";
+"GPInfo1" = "The descent rate is calculated according to \ npresented below dependence of tangent function:";
+"GPInfo2" = "For the standard 3° approach glide path, the 'Rule of three' or '3:1 rule of descent' can be used.";
+"GPInfo3" = "It says that for every 3 NM carried out aircraft will reduce the height by 1 000 ft (~ 300 m).";
+"GPInfo4" = "In order to fast calculate the ratio (Rate) \n expressed in ft/NM you can use the following dependencies:";
+
+//Contact
+"ContactTitle" = "Contact";
+"ContactInfo1" = "Check out our profiles on social media websites! ";
+"ContactInfo2" = "You can also contact with us via e-mail";
+
+//TimeCalc
+"TimeCalcTitle" = "Time Calculator";
+
+//Weather
+"WxTitle" = "Choose airfield";
+"WxPlaceholder" = "AIRFIELD";
+"loadingMETAR" = "Loading METAR";
+"loadingTAF" = "Loading TAF";
+"noWxInfo" = ": Terminal aerodrome forecast unavailable";
+"aerodromes" = "Available airfields:";
+"TAFwillBeLoad" = "TAF will be loaded \nafter airfield selection";
+"METARwillBeLoad" = "METAR will be loaded \nafter airfield selection";

@@ -1,0 +1,242 @@
+
+//Welcome Guide
+
+"WelcomeGuideH1" = "E6B 航空计算器计算器";
+"WelcomeGuideH2" = "许多功能";
+"WelcomeGuideH3" = "从飞行员到飞行员";
+"WelcomeGuideH4" = "去设置向导";
+
+"WelcomeGuideP1" = "恭喜你，\n你已经找到了适应于苹果平板电脑和手机最好的\nE6B航空飞行计算器之一";
+"WelcomeGuideP2" = "您将会发现\nE6B有助于解决主要有关\n于飞行规划和导航问题";
+"WelcomeGuideP3" = "E6B是由飞行员为飞行员而创造开发的。\n软件包含真正的计算，\n而不是像其他的应用一\n样是'经验法则'估算";
+"WelcomeGuideP4" = "如果您有不清楚的地方，请点击帮助键";
+
+//Button labels
+"linkBtn" = "http://pajlot.pl";
+"JumpToCreatorBtn" = "OK";
+"SkipBtn" = "跳过";
+"ResetBtn" = "重置";
+"CancelBtn" = "取消";
+"DoneBtn" = "完成";
+"MoreInfoBtn" = "了解更多";
+"NextBtn" = "下一步";
+"QuitBtn" = "退出向导";
+"jumpToWizardBtn" = "跳入设置向导;";
+"loadDefaultsBtn" = "加载默认预设;";
+"finishBtn" = "完成";
+
+//popup Info
+"popUpLbl" = "仅在适用于专业版中的功能";
+
+//SetupWizard
+"TitleOFTheScreenWizard" = "设置向导";
+"AdditionalInfoWizard" = "您可以在 '设置' 和 '单位' 选项卡中更改此数据";
+"WizardInfo" = "加载默认预设或跳转到设置向导。";
+"WizardSpeedInfo" = "设置速度最大值及其单位";
+"WizardDistanceInfo" = "设置速距离最大值及其单位;";
+"WizardPressureInfo" = "设置大气压力值及其单位;";
+"WizardTemperatureInfo" = "设置外部温度值及其单位";
+"WizardElevationInfo" = "设置机场标高值及其单位";
+"WizardWindInfo" = "设置风向和风力值及其单位";
+"WizardFuelInfo" = "设置燃油流量及其单位。\nx选择燃料类型;";
+"WizardVariationInfo" = "设置磁偏角的值和方向 \n - 变化量（ΔM）。";
+"WizardUnitsInfo" = "选择其他单位";
+
+
+"WizardInfoP1" = "设置向导可帮助您配置应用程序界面。 \n最大值用于各功能滑块的正常功能，\n可输入数值。\n";
+"WizardInfoP2" = "\n您可以随时通过输入设置选项卡来更新这些值。\n";
+"WizardInfoP3" = "\n设置向导也允许选择单个参数的单位类型。 \n您可以随时更改它们。 \n这些值将被自动转换。\n";
+"WizardInfoP4" = "\n如果您在填写所有数据前离开设置向导，\n应用程序将加载默认值。";
+
+//Disclaimer Storyboard
+"DisclaimerHeadline" = "免   责   声   明";
+"InfoHeadline" = "信息";
+
+"WelcomeHeadline" = "欢迎您来到";
+"ParagrafOne" = "此软件无意取代专业和认证的航空计算器或类似设备。";
+"ParagrafTwo" = "如果您决定在实际飞行计划期间使用本软件，\n您将自行承担风险。";
+"ParagrafThree" = "我们尽一切努力确保每个功能的正常工作，\n但我们无法保证结果的准确性。";
+"ParagrafFour" = "对于因使用本软件而造成的任何损失，\n作者不承担任何责任。";
+"ParagrafFive" = "如果您不希望在每次应用程序启动时看到弹出消息，\n请将其切换为适当的选项。";
+"OKBtn" = "明白";
+
+//Functions List
+"Section0" = "速度/距离/时间";
+"Section1" = "角度 & 分量";
+"Section2" = "燃料计算";
+"Section3" = "天气计算";
+"SectionDef" = "PAJLOT E6B功能";
+
+"SpeedLabel" = "速度";
+"VspeedLabel" = "垂直速度";
+"DistanceLabel" = "距离";
+"TimeLabel" = "飞行时间";
+"WCALabel" = "漂移角度";
+"GlidePathLabel" = "下滑道";
+"FuelLabel" = "燃料流量（h）";
+"EnduranceLabel" = "续航力";
+"WeightLabel" = "体积 / 重量";
+"WindComponetLabel" = "风分量";
+"TASLabel" = "真正的空速";
+"DensityAltLabel" = "密度高度";
+
+//Settings Page
+"SettingsHL" = "设置";
+"SettingsTVSection0" = "滑块最大值";
+"SettingsTVSection1" = "初始数值";
+"SettingsTVSection2" = "恒量数值";
+"SettingsTVSectionDef" = "设置";
+
+"PressureLabel" = "压力";
+"TempLabel" = "温度（OAT外部大气温度)";
+"ElevationLabel" = "机场标高";
+"windSpeedLabel" = "风速";
+"windDirectionLabel" = "风向";
+"fuelFlowRateLabel" = "燃料流量";
+"FuelTypeLabel" = "燃料类型";
+
+//Options
+"OptionsText" = "我们尽一切努力确保E6B界面是方便用户的，\n并保证其功能尽可能在飞行计划中有用。 \n\n\n如果您有任何改进想法或者您发现错误或发现该应用程序无法正常工作，\n请随时与我们联系。";
+
+"OptionsGuideStatus" = "欢迎指南";
+"OptionsWizzardStatus" = "设置向导";
+"OptionsDisclaimerStatus" = "免责声明";
+"OptionsInfoLbl" = "如果您希望在应用程序启动时显示上述内容，\n请检查适当的选项";
+"OptionsLanguageLbl" = "更改语言";
+"OptionsContactLbl" = "联系信息";
+"OptionsWebsiteLbl" = "访问该网站";
+"OptionsDonateLbl" = "捐赠";
+"OptionsRateLbl" = "评价应用";
+
+"ONstatus" = "开启";
+"OFFstatus" = "关闭";
+
+//Welcome Guide
+"WelcomeGuideTitle" = "欢迎指南";
+"GuideLbl" = "欢迎指南";
+"WGinfo1" = "如果您希望在应用程序启动时显示 '欢迎指南'，\n请保留该选项。.";
+"WGinfo2" = "点击上面的按钮显示 '欢迎指南'";
+"WelcomeGuideBtn" = "欢 迎 指 南";
+
+//Setting Wizard
+"SettingWizzardTitle" = "设置向导";
+"WizzardLbl" = "设置向导";
+"SWinfo1" = "如果您希望在应用程序启动时显示  '设置向导'，\n请保留该选项。";
+"SWinfo2" = "点击上面的按钮显示 '设置向导' ";
+"SettingWizzardBtn" = "设置向导";
+
+//Desclimer
+"DisclaimerTitle" = "免责声明";
+"DisclaimerLbl" = "免责声明";
+"Dinfo1" = "如果您希望在应用程序启动时显示 '免责声明信息'，请保留该选项";
+"Dinfo2" = "点击上面的按钮显示 '免责声明信息'";
+"DisclaimerVCBtn" = "显示免责声明";
+
+//Donate
+"DonateTitle" = "捐赠";
+"ShowHideLbl" = "显示/隐藏QR码";
+"DonateInfo1" = "感谢您使用专业版。 如果您想进一步激励我们，请考虑捐赠给我们。";
+"DonateInfo2" = "以下您可以在我们的比特币钱包中找到公钥和QR码。";
+
+//Change language
+"ChangeLanguageTitle" = "选择语言";
+"PolishLangLbl" = "波兰语";
+"EnglishLangLbl" = "英语";
+"ChineseLangLbl" = "中文";
+"SLinfo1" = "请从上面提供的选项中选择应用界面语言";
+"SLinfo2" = "有时应用程序需重新启动以更改正确语言";
+
+//Upgrade Pro
+"UpgradeH1" = "Pajlot - 航空应用";
+"UpgradeP1" = "E6B是PAJLOT所有。 它是针对波兰市场对航空和飞行员移动应用程序的需求的响应。";
+"UpgradeH2" = "检查旁边缺少广告提供PRO版本";
+"UpgradeP2" = "感谢您使用我们的软件";
+"e6bproBtn" = "Pajlot E6B 专业版";
+"featureAvailableOnlyForPro" = "仅在PRO版本中可用功能;";
+
+//Upgrade popup
+"soonInAppStoreText" = "在应用市场中可用";
+"featuresTextFieldText" = "新界面o新功能：\no风分量o真空速度\no耐久性o垂直速度\no密度高度\no时间计算器（很快）\no单位转换器\no无广告\no频繁更新";
+"goToAppStoreBtn" = "访问应用市场";
+"notInterestedBtn" = "没有兴趣";
+
+//ALERTS
+"messageTitle1" = "警告";
+"message1" = "已加载默认值";
+"message2" = "你确定要将值重置为默认值吗?";
+"messageReset" = "重置";
+"messageCancel" = "取消";
+
+"messageTitle2" = "磁偏角";
+"message3" = "设置变化值;ΔM)，记住方向  (E(+) - 东或者 W(-) - 西)";
+
+"messageTitle3" = "比重";
+"message4" = "取决于温度和燃料类型。 计算基于国际标准大气（ISA）其温度系数被假定为在介质海平面（MSL）中的温度。";
+"messageGotIt" = "明白";
+"message5" = "你确定要重设默认单位吗?";
+
+"messageTitle6" = "互联网";
+"message6" = "没有互联网，\n请检查您的连接。";
+
+//UNITS
+"UnitsHL" = "单位";
+"UnitsSection0" = "主要";
+"UnitsSection1" = "其他";
+"UnitsSection2" = "附加";
+"UnitsSectionDef" = "单位";
+"AltitideLabel" = "高度";
+"VolumeLabel" = "体积";
+"UnitsWeightLabel" = "重量";
+"AngleLabel" = "角度值";
+"FuelAmountLabel" = "燃料";
+
+//Functions VC: WCA
+"WindDirectionLabel" = "风向";
+"CourseLabel" = "航道";
+
+//Functions VC: Wind Component
+"HWC" = "逆风分量";
+"CWC" = "侧风分量";
+
+//Functions VS: Endurance
+"setDefaultFuelFlow" = "默认燃油流量";
+
+//FuelConversion more info VC
+"FuelP1" = "燃料的比重（SG）取决于环境温度和燃料类型。";
+"FuelP2" = "计算是基于国际标准大气（ISA）。其温度系数被假定为在介质海平面（MSL）中的温度。";
+"FuelP3" = "对于JET A1（来自'航空涡轮机'的AVTUR），假定以下关系：";
+"FuelP4" = "对于AVGAS，使用于以下因素：";
+
+//Density altitude more info VC
+"DensityAltInfo1" = "密度高度（DA）是由非标准环境温度引起的误差修正的压力高度（PA）。";
+"DensityAltInfo2" = "随着温度和高度的增加，空气密度下降，高密度对飞机性能产生显著影响。";
+"DensityAltInfo3" = "在温暖潮湿的日子里，空调会加速变慢，它需要更长的运行时间，和更高的速度来提供起飞所必需升力，爬升率将会降低。";
+"DensityAltInfo4" = "压力高度（PA）是当高度表设定为海平面压力 -QNE（称为标准压力）时，从上面读取的值 -:";
+"DensityAltInfo5" = "ISA温度是给定高度的标准温度值。 在海平面上，它是15°C。 升高1 000英尺时，温度下降2°C";
+
+//Glide path  more info VC
+"GPTitle" = "下滑道";
+"GPformula1" = "TAN（角度°）=下降率％ ";
+"GPformula2" = "角度（°）≈速率（％）×0.6";
+"GPInfo1" = "下降率根据以下给出的正切函数相关性的计算：";
+"GPInfo2" = "对于标准的3°接近滑行路径，可以使用 '三规则' 或 '3：1下降规则'。";
+"GPInfo3" = "飞机每进行3NM，飞机高度将降低1 000英尺（〜300米）。";
+"GPInfo4" = "为了快速计算以ft / NM表示的比率（比率），您可以使用以下相关项：";
+
+//Contact
+"ContactTitle" = "联系方式";
+"ContactInfo1" = "可以在社交媒体网站上查看我们的个人资料！ ";
+"ContactInfo2" = "您还可以通过邮件和我们联系";
+
+//TimeCalc
+"TimeCalcTitle" = "时间计算器";
+
+//Weather
+"WxTitle" = "选择机场";
+"WxPlaceholder" = "机场";
+"loadingMETAR" = "装载 METAR";
+"loadingTAF" = "装载 TAF";
+"noWxInfo" = ": TAF 不可用";
+"aerodromes" = "可用机场:";
+"TAFwillBeLoad" = "TAF\n 将在机场选择后加载";
+"METARwillBeLoad" = "METAR\n 将在机场选择后加载";

@@ -1,0 +1,30 @@
+
+/* Class = "UITextView"; text = "O S T R Z E Ż E N I E"; ObjectID = "6hd-PU-cPk"; */
+"6hd-PU-cPk.text" = "O S T R Z E Ż E N I E";
+
+/* Class = "UIViewController"; title = "Ostrzeżenie"; ObjectID = "LcR-CL-Lyc"; */
+"LcR-CL-Lyc.title" = "Ostrzeżenie";
+
+/* Class = "UITextView"; text = "Jeśli nie chcesz aby to ostrzeżenie było wyświetlane przy starcie aplikacji odznacz stosowną opcję w ustawieniach."; ObjectID = "OJq-xj-Lwt"; */
+"OJq-xj-Lwt.text" = "Jeśli nie chcesz aby to ostrzeżenie było wyświetlane przy starcie aplikacji odznacz stosowną opcję w ustawieniach.";
+
+/* Class = "UIButton"; normalTitle = "ROZUMIEM"; ObjectID = "OUW-f0-I7U"; */
+"OUW-f0-I7U.normalTitle" = "ROZUMIEM";
+
+/* Class = "UITextView"; text = "Dokładamy wszelkich starań aby poszczególne funkcje aplikacji działały prawidłowo, nie mniej jednak nie możemy zagwarantować bezbłędnych wyników."; ObjectID = "QQG-EN-LNh"; */
+"QQG-EN-LNh.text" = "Dokładamy wszelkich starań aby poszczególne funkcje aplikacji działały prawidłowo, nie mniej jednak nie możemy zagwarantować bezbłędnych wyników.";
+
+/* Class = "UITextView"; text = "JEŻELI ZDECYDUJESZ SIĘ, WYKORZYSTYWAĆ TĄ APLIKACJĘ PODCZAS PLANOWANIA REALNYCH ZADAŃ LOTNICZYCH, PAMIĘTAJ, ŻE ROBISZ TO NA WŁASNĄ ODPOWIEDZIALNOŚĆ."; ObjectID = "Qbc-At-3NE"; */
+"Qbc-At-3NE.text" = "JEŻELI ZDECYDUJESZ SIĘ, WYKORZYSTYWAĆ TĄ APLIKACJĘ PODCZAS PLANOWANIA REALNYCH ZADAŃ LOTNICZYCH, PAMIĘTAJ, ŻE ROBISZ TO NA WŁASNĄ ODPOWIEDZIALNOŚĆ.";
+
+/* Class = "UITextView"; text = "Pajlot E6B Lite"; ObjectID = "nma-g9-stA"; */
+"nma-g9-stA.text" = "Pajlot E6B Lite";
+
+/* Class = "UITextView"; text = "WITAJ"; ObjectID = "ofs-Kj-HmG"; */
+"ofs-Kj-HmG.text" = "WITAJ";
+
+/* Class = "UITextView"; text = "Twórcy nie mogą być pociagni do odpowiedzialności za powstanie jakichkolwiek uszkodzenia powstałych w wyniku użytkowania tej aplikacji."; ObjectID = "sQf-s1-55Y"; */
+"sQf-s1-55Y.text" = "Twórcy nie mogą być pociagni do odpowiedzialności za powstanie jakichkolwiek uszkodzenia powstałych w wyniku użytkowania tej aplikacji.";
+
+/* Class = "UITextView"; text = "Ta aplikacja nie powinna być używana w zastępstwie profesionalnych oraz certyfikowanych kalkulatorów lub innych urzadzeń tego typu."; ObjectID = "srD-aH-Z6H"; */
+"srD-aH-Z6H.text" = "Ta aplikacja nie powinna być używana w zastępstwie profesionalnych oraz certyfikowanych kalkulatorów lub innych urzadzeń tego typu.";

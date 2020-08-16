@@ -1,0 +1,795 @@
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "0Kk-yE-JhN"; */
+"0Kk-yE-JhN.normalTitle" = "-";
+
+/* Class = "UITextView"; text = "Wysokość gęstościowa (Density Altitude - DA) jest to wysokość ciśnieniowa (Pressure Altitude - PA) poprawiona o błąd spowodowany niestandardową temperaturą otoczenia."; ObjectID = "0MB-6t-WkG"; */
+"0MB-6t-WkG.text" = "Wysokość gęstościowa (Density Altitude - DA) jest to wysokość ciśnieniowa (Pressure Altitude - PA) poprawiona o błąd spowodowany niestandardową temperaturą otoczenia.";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "0PY-dI-6q2"; */
+"0PY-dI-6q2.normalTitle" = "-";
+
+/* Class = "UIViewController"; title = "Dystans"; ObjectID = "0fA-az-dIx"; */
+"0fA-az-dIx.title" = "Dystans";
+
+/* Class = "UILabel"; text = "Objętość"; ObjectID = "0fb-bF-WX9"; */
+"0fb-bF-WX9.text" = "Objętość";
+
+/* Class = "UITextView"; text = "Ciężar właściwy paliwa (SG) jest zależny od panującej temperatury otoczenia oraz rodzaju paliwa."; ObjectID = "1Cq-Id-6Wf"; */
+"1Cq-Id-6Wf.text" = "Ciężar właściwy paliwa (SG) jest zależny od panującej temperatury otoczenia oraz rodzaju paliwa.";
+
+/* Class = "UITextView"; text = " 0.79 JET A1 / 0.72 AVGAS"; ObjectID = "1Cs-qO-XHK"; */
+"1Cs-qO-XHK.text" = " 0.79 JET A1 / 0.72 AVGAS";
+
+/* Class = "UIViewController"; title = "Komponenty wiatru"; ObjectID = "1Dh-t9-45o"; */
+"1Dh-t9-45o.title" = "Komponenty wiatru";
+
+/* Class = "UIButton"; normalTitle = "10'"; ObjectID = "1Lh-rM-pu8"; */
+"1Lh-rM-pu8.normalTitle" = "10'";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "1Me-py-3Ug"; */
+"1Me-py-3Ug.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "KPH"; ObjectID = "1ge-Ed-XSG"; */
+"1ge-Ed-XSG.text" = "KPH";
+
+/* Class = "UIViewController"; title = "Options"; ObjectID = "2Bw-hI-kVT"; */
+"2Bw-hI-kVT.title" = "Options";
+
+/* Class = "UIButton"; normalTitle = "10'"; ObjectID = "2KO-8q-5Nu"; */
+"2KO-8q-5Nu.normalTitle" = "10'";
+
+/* Class = "UITextView"; text = "TAN(kąt °) = descent rate %"; ObjectID = "2Ks-3g-2cv"; */
+"2Ks-3g-2cv.text" = "TAN(kąt °) = descent rate %";
+
+/* Class = "UISegmentedControl"; 2R8-U6-LMi.segmentTitles[0] = "m/s"; ObjectID = "2R8-U6-LMi"; */
+"2R8-U6-LMi.segmentTitles[0]" = "m/s";
+
+/* Class = "UISegmentedControl"; 2R8-U6-LMi.segmentTitles[1] = "ft/min"; ObjectID = "2R8-U6-LMi"; */
+"2R8-U6-LMi.segmentTitles[1]" = "ft/min";
+
+/* Class = "UIViewController"; title = "Kalkulator czasu"; ObjectID = "2oD-st-ix1"; */
+"2oD-st-ix1.title" = "Kalkulator czasu";
+
+/* Class = "UILabel"; text = "Kąt znoszenia"; ObjectID = "3Ro-Bs-Ed8"; */
+"3Ro-Bs-Ed8.text" = "Kąt znoszenia";
+
+/* Class = "UILabel"; text = "Prędkość pionowa"; ObjectID = "3TA-73-8w7"; */
+"3TA-73-8w7.text" = "Prędkość pionowa";
+
+/* Class = "UILabel"; text = "Groundspeed (GS)"; ObjectID = "434-7L-xkI"; */
+"434-7L-xkI.text" = "Groundspeed (GS)";
+
+/* Class = "UIButton"; normalTitle = "DOWIEDZ SIĘ WIĘCEJ"; ObjectID = "45p-Qz-1D6"; */
+"45p-Qz-1D6.normalTitle" = "DOWIEDZ SIĘ WIĘCEJ";
+
+/* Class = "UILabel"; text = "Wysokość gęstościowa"; ObjectID = "4P4-7a-luy"; */
+"4P4-7a-luy.text" = "Wysokość gęstościowa";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "4V3-sI-BWF"; */
+"4V3-sI-BWF.normalTitle" = "+";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "4bc-eN-G7e"; */
+"4bc-eN-G7e.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "000.0"; ObjectID = "58Q-cP-Lt1"; */
+"58Q-cP-Lt1.text" = "000.0";
+
+/* Class = "UILabel"; text = "l"; ObjectID = "5AM-ja-nJ3"; */
+"5AM-ja-nJ3.text" = "l";
+
+/* Class = "UILabel"; text = "KPH"; ObjectID = "5II-Y2-uuT"; */
+"5II-Y2-uuT.text" = "KPH";
+
+/* Class = "UITextView"; text = "Mówi ona, że na każde przebyte 3 NM statek powietrzny zmniejszy wysokość o 1 000 ft (~300 m)."; ObjectID = "5LC-mM-sPm"; */
+"5LC-mM-sPm.text" = "Mówi ona, że na każde przebyte 3 NM statek powietrzny zmniejszy wysokość o 1 000 ft (~300 m).";
+
+/* Class = "UIViewController"; title = "Objętość a ciężar"; ObjectID = "5ZE-xC-vG8"; */
+"5ZE-xC-vG8.title" = "Objętość a ciężar";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "5ik-JZ-dXC"; */
+"5ik-JZ-dXC.normalTitle" = "-";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "6Hl-tx-Cjw"; */
+"6Hl-tx-Cjw.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "m"; ObjectID = "6Qc-eC-4lS"; */
+"6Qc-eC-4lS.text" = "m";
+
+/* Class = "UILabel"; text = "km"; ObjectID = "6cB-uW-guc"; */
+"6cB-uW-guc.text" = "km";
+
+/* Class = "UILabel"; text = "Czołowa składowa wiatru"; ObjectID = "6lG-xa-Jj6"; */
+"6lG-xa-Jj6.text" = "Czołowa składowa wiatru";
+
+/* Class = "UINavigationItem"; title = "Pajlot E6B Pro"; ObjectID = "6p2-BQ-4yS"; */
+"6p2-BQ-4yS.title" = "Pajlot E6B Pro";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "74Z-5i-avD"; */
+"74Z-5i-avD.normalTitle" = "+";
+
+/* Class = "UIButton"; normalTitle = "2'"; ObjectID = "7jA-a9-POg"; */
+"7jA-a9-POg.normalTitle" = "2'";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "7qT-Mc-q6d"; */
+"7qT-Mc-q6d.normalTitle" = "+";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "7ua-3m-t4d"; */
+"7ua-3m-t4d.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "Temperatura"; ObjectID = "835-gQ-WFz"; */
+"835-gQ-WFz.text" = "Temperatura";
+
+/* Class = "UITableViewSection"; headerTitle = "OBLICZENIA PALIWOWE"; ObjectID = "84f-UC-Ao5"; */
+"84f-UC-Ao5.headerTitle" = "OBLICZENIA PALIWOWE";
+
+/* Class = "UITextView"; text = "1l = 1.76 lbs"; ObjectID = "8FX-6f-NJ2"; */
+"8FX-6f-NJ2.text" = "1l = 1.76 lbs";
+
+/* Class = "UITextView"; text = "1% = 60 ft/NM"; ObjectID = "8eE-M9-oCD"; */
+"8eE-M9-oCD.text" = "1% = 60 ft/NM";
+
+/* Class = "UITextView"; text = "Dla JET A1 (AVTUR od 'Aviation Turbine') \nprzyjmuje się następujące zależności:"; ObjectID = "8ya-E7-xeH"; */
+"8ya-E7-xeH.text" = "Dla JET A1 (AVTUR od 'Aviation Turbine') \nprzyjmuje się następujące zależności:";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "9B9-Rl-lCw"; */
+"9B9-Rl-lCw.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "Czas"; ObjectID = "9Qt-3X-dTx"; */
+"9Qt-3X-dTx.text" = "Czas";
+
+/* Class = "UILabel"; text = "Kierunek lotu"; ObjectID = "9cO-gq-QiU"; */
+"9cO-gq-QiU.text" = "Kierunek lotu";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "9jL-1V-RZh"; */
+"9jL-1V-RZh.normalTitle" = "-";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "9oa-B9-ESj"; */
+"9oa-B9-ESj.normalTitle" = "+";
+
+/* Class = "UIViewController"; title = "Ścieżka schodzenia"; ObjectID = "9uZ-OU-DRJ"; */
+"9uZ-OU-DRJ.title" = "Ścieżka schodzenia";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "A6M-Ib-lKh"; */
+"A6M-Ib-lKh.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "KPH"; ObjectID = "AHC-VT-RaY"; */
+"AHC-VT-RaY.text" = "KPH";
+
+/* Class = "UILabel"; text = "KPH"; ObjectID = "B1U-gQ-bDR"; */
+"B1U-gQ-bDR.text" = "KPH";
+
+/* Class = "UISegmentedControl"; CLL-QP-Wcd.segmentTitles[0] = "l"; ObjectID = "CLL-QP-Wcd"; */
+"CLL-QP-Wcd.segmentTitles[0]" = "l";
+
+/* Class = "UISegmentedControl"; CLL-QP-Wcd.segmentTitles[1] = "kg"; ObjectID = "CLL-QP-Wcd"; */
+"CLL-QP-Wcd.segmentTitles[1]" = "kg";
+
+/* Class = "UISegmentedControl"; CLL-QP-Wcd.segmentTitles[2] = "lb"; ObjectID = "CLL-QP-Wcd"; */
+"CLL-QP-Wcd.segmentTitles[2]" = "lb";
+
+/* Class = "UITextView"; text = "Natomiast dla AVGAS \nprzyjmuje się poniższe współczynniki:"; ObjectID = "Cqo-om-yZk"; */
+"Cqo-om-yZk.text" = "Natomiast dla AVGAS \nprzyjmuje się poniższe współczynniki:";
+
+/* Class = "UILabel"; text = "°"; ObjectID = "Cz2-PP-nQ5"; */
+"Cz2-PP-nQ5.text" = "°";
+
+/* Class = "UILabel"; text = "KPH"; ObjectID = "DPD-dT-zjH"; */
+"DPD-dT-zjH.text" = "KPH";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "Dg6-ij-2gd"; */
+"Dg6-ij-2gd.normalTitle" = "-";
+
+/* Class = "UISegmentedControl"; Dgz-9V-fWj.segmentTitles[0] = "hh:mm:ss"; ObjectID = "Dgz-9V-fWj"; */
+"Dgz-9V-fWj.segmentTitles[0]" = "hh:mm:ss";
+
+/* Class = "UISegmentedControl"; Dgz-9V-fWj.segmentTitles[1] = "mm:ss"; ObjectID = "Dgz-9V-fWj"; */
+"Dgz-9V-fWj.segmentTitles[1]" = "mm:ss";
+
+/* Class = "UISegmentedControl"; Dgz-9V-fWj.segmentTitles[2] = "ss"; ObjectID = "Dgz-9V-fWj"; */
+"Dgz-9V-fWj.segmentTitles[2]" = "ss";
+
+/* Class = "UILabel"; text = "00 : 00 : 00"; ObjectID = "EYS-Ji-VS6"; */
+"EYS-Ji-VS6.text" = "00 : 00 : 00";
+
+/* Class = "UILabel"; text = "Dystans"; ObjectID = "EdR-20-euu"; */
+"EdR-20-euu.text" = "Dystans";
+
+/* Class = "UITabBarItem"; title = " "; ObjectID = "Efp-s4-58o"; */
+"Efp-s4-58o.title" = " ";
+
+/* Class = "UIViewController"; title = "Wysokość gęstościowa"; ObjectID = "EkK-L4-aVb"; */
+"EkK-L4-aVb.title" = "Wysokość gęstościowa";
+
+/* Class = "UILabel"; text = "kg"; ObjectID = "FG3-4b-tTl"; */
+"FG3-4b-tTl.text" = "kg";
+
+/* Class = "UILabel"; text = "Siła wiatru"; ObjectID = "G4O-BO-ICW"; */
+"G4O-BO-ICW.text" = "Siła wiatru";
+
+/* Class = "UISegmentedControl"; G6j-en-Fmf.segmentTitles[0] = "m"; ObjectID = "G6j-en-Fmf"; */
+"G6j-en-Fmf.segmentTitles[0]" = "m";
+
+/* Class = "UISegmentedControl"; G6j-en-Fmf.segmentTitles[1] = "ft"; ObjectID = "G6j-en-Fmf"; */
+"G6j-en-Fmf.segmentTitles[1]" = "ft";
+
+/* Class = "UISegmentedControl"; G6j-en-Fmf.segmentTitles[2] = "FL"; ObjectID = "G6j-en-Fmf"; */
+"G6j-en-Fmf.segmentTitles[2]" = "FL";
+
+/* Class = "UIViewController"; title = "Wx"; ObjectID = "Gl4-O5-Ucf"; */
+"Gl4-O5-Ucf.title" = "Wx";
+
+/* Class = "UIButton"; normalTitle = "2'"; ObjectID = "HRv-Pk-IbT"; */
+"HRv-Pk-IbT.normalTitle" = "2'";
+
+/* Class = "UIViewController"; title = "Prędkość pionowa"; ObjectID = "Hht-A9-kv0"; */
+"Hht-A9-kv0.title" = "Prędkość pionowa";
+
+/* Class = "UISegmentedControl"; I9H-Iz-i9i.segmentTitles[0] = "°C"; ObjectID = "I9H-Iz-i9i"; */
+"I9H-Iz-i9i.segmentTitles[0]" = "°C";
+
+/* Class = "UISegmentedControl"; I9H-Iz-i9i.segmentTitles[1] = "°F"; ObjectID = "I9H-Iz-i9i"; */
+"I9H-Iz-i9i.segmentTitles[1]" = "°F";
+
+/* Class = "UISegmentedControl"; I9H-Iz-i9i.segmentTitles[2] = "K"; ObjectID = "I9H-Iz-i9i"; */
+"I9H-Iz-i9i.segmentTitles[2]" = "K";
+
+/* Class = "UISegmentedControl"; IGg-Sc-ZhR.segmentTitles[0] = "m/s"; ObjectID = "IGg-Sc-ZhR"; */
+"IGg-Sc-ZhR.segmentTitles[0]" = "m/s";
+
+/* Class = "UISegmentedControl"; IGg-Sc-ZhR.segmentTitles[1] = "KT"; ObjectID = "IGg-Sc-ZhR"; */
+"IGg-Sc-ZhR.segmentTitles[1]" = "KT";
+
+/* Class = "UISegmentedControl"; IGg-Sc-ZhR.segmentTitles[2] = "KPH"; ObjectID = "IGg-Sc-ZhR"; */
+"IGg-Sc-ZhR.segmentTitles[2]" = "KPH";
+
+/* Class = "UILabel"; text = "kph"; ObjectID = "IIF-3p-mjU"; */
+"IIF-3p-mjU.text" = "kph";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "IkC-mx-8hR"; */
+"IkC-mx-8hR.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Rodzaj paliwa"; ObjectID = "JD1-HN-ppY"; */
+"JD1-HN-ppY.text" = "Rodzaj paliwa";
+
+/* Class = "UITextView"; text = "kąt (°) ≈ Rate (%) x 0.6"; ObjectID = "JEy-Xj-IIN"; */
+"JEy-Xj-IIN.text" = "kąt (°) ≈ Rate (%) x 0.6";
+
+/* Class = "UISegmentedControl"; JLz-av-NOb.segmentTitles[0] = "l/h"; ObjectID = "JLz-av-NOb"; */
+"JLz-av-NOb.segmentTitles[0]" = "l/h";
+
+/* Class = "UISegmentedControl"; JLz-av-NOb.segmentTitles[1] = "kg/h"; ObjectID = "JLz-av-NOb"; */
+"JLz-av-NOb.segmentTitles[1]" = "kg/h";
+
+/* Class = "UISegmentedControl"; JLz-av-NOb.segmentTitles[2] = "lbs/h"; ObjectID = "JLz-av-NOb"; */
+"JLz-av-NOb.segmentTitles[2]" = "lbs/h";
+
+/* Class = "UILabel"; text = "Zużycie paliwa"; ObjectID = "KP6-F2-CUg"; */
+"KP6-F2-CUg.text" = "Zużycie paliwa";
+
+/* Class = "UITableViewSection"; headerTitle = "OBLICZENIA POGODOWE"; ObjectID = "KVf-bc-kYl"; */
+"KVf-bc-kYl.headerTitle" = "OBLICZENIA POGODOWE";
+
+/* Class = "UILabel"; text = "Ciśnienie"; ObjectID = "LLP-l6-B3m"; */
+"LLP-l6-B3m.text" = "Ciśnienie";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "Lc1-UT-Cbf"; */
+"Lc1-UT-Cbf.normalTitle" = "-";
+
+/* Class = "UISegmentedControl"; Lrv-6H-A4O.segmentTitles[0] = "l"; ObjectID = "Lrv-6H-A4O"; */
+"Lrv-6H-A4O.segmentTitles[0]" = "l";
+
+/* Class = "UISegmentedControl"; Lrv-6H-A4O.segmentTitles[1] = "m³"; ObjectID = "Lrv-6H-A4O"; */
+"Lrv-6H-A4O.segmentTitles[1]" = "m³";
+
+/* Class = "UILabel"; text = "Składowe wiatru"; ObjectID = "M3D-g4-XfE"; */
+"M3D-g4-XfE.text" = "Składowe wiatru";
+
+/* Class = "UILabel"; text = "Czas lotu"; ObjectID = "M5A-gQ-tNr"; */
+"M5A-gQ-tNr.text" = "Czas lotu";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "MBG-yQ-8B5"; */
+"MBG-yQ-8B5.normalTitle" = "-";
+
+/* Class = "UITextView"; text = "1l = 1.58 lbs"; ObjectID = "MWL-KY-siw"; */
+"MWL-KY-siw.text" = "1l = 1.58 lbs";
+
+/* Class = "UITableViewSection"; headerTitle = "KĄTY I SKŁADOWE"; ObjectID = "Ma0-wT-kUL"; */
+"Ma0-wT-kUL.headerTitle" = "KĄTY I SKŁADOWE";
+
+/* Class = "UITextView"; text = "Wysokość ciśnieniowa (PA) to wartość odczytana \nz wysokościomierza przy ustawieniu go na wartość ciśnienia panującego na poziomie morza - \nQNE (tzw. ciśnienie standardowe) wynoszące:"; ObjectID = "MiL-tB-OXl"; */
+"MiL-tB-OXl.text" = "Wysokość ciśnieniowa (PA) to wartość odczytana \nz wysokościomierza przy ustawieniu go na wartość ciśnienia panującego na poziomie morza - \nQNE (tzw. ciśnienie standardowe) wynoszące:";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "Mvt-pT-VL3"; */
+"Mvt-pT-VL3.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "Prędkość rzeczywista"; ObjectID = "Njd-dU-4nF"; */
+"Njd-dU-4nF.text" = "Prędkość rzeczywista";
+
+/* Class = "UITextView"; text = "TAN(3 °) = 0.05240778 ≈ 5.2%"; ObjectID = "Nqb-5B-JAH"; */
+"Nqb-5B-JAH.text" = "TAN(3 °) = 0.05240778 ≈ 5.2%";
+
+/* Class = "UITableViewSection"; headerTitle = "Inne"; ObjectID = "O3P-R4-RVS"; */
+"O3P-R4-RVS.headerTitle" = "Inne";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "ONc-qY-aRk"; */
+"ONc-qY-aRk.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "km"; ObjectID = "Obc-q1-j2P"; */
+"Obc-q1-j2P.text" = "km";
+
+/* Class = "UIViewController"; title = "Kąt znoszenia"; ObjectID = "PSq-O6-3ou"; */
+"PSq-O6-3ou.title" = "Kąt znoszenia";
+
+/* Class = "UILabel"; text = "ft/min"; ObjectID = "PYf-oQ-6VL"; */
+"PYf-oQ-6VL.text" = "ft/min";
+
+/* Class = "UIButton"; normalTitle = "10"; ObjectID = "Prl-RA-fWi"; */
+"Prl-RA-fWi.normalTitle" = "10";
+
+/* Class = "UITextView"; text = "Współczynnik ścieżki schodzenia \n(descent rate) obliczany jest według \nponiższej zależności funkcji tangens:"; ObjectID = "PzY-hu-fVc"; */
+"PzY-hu-fVc.text" = "Współczynnik ścieżki schodzenia \n(descent rate) obliczany jest według \nponiższej zależności funkcji tangens:";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "QBu-bY-pUO"; */
+"QBu-bY-pUO.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "m"; ObjectID = "QGh-qg-hDh"; */
+"QGh-qg-hDh.text" = "m";
+
+/* Class = "UIViewController"; title = "Prędkość postępowa"; ObjectID = "QKe-RZ-UR0"; */
+"QKe-RZ-UR0.title" = "Prędkość postępowa";
+
+/* Class = "UILabel"; text = "m"; ObjectID = "Qjc-jp-CHm"; */
+"Qjc-jp-CHm.text" = "m";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "QrL-9L-DKv"; */
+"QrL-9L-DKv.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Prędkość postępowa"; ObjectID = "Rgi-vW-ldH"; */
+"Rgi-vW-ldH.text" = "Prędkość postępowa";
+
+/* Class = "UISegmentedControl"; RyA-BT-lYr.segmentTitles[0] = "hPa"; ObjectID = "RyA-BT-lYr"; */
+"RyA-BT-lYr.segmentTitles[0]" = "hPa";
+
+/* Class = "UISegmentedControl"; RyA-BT-lYr.segmentTitles[1] = "mmHg"; ObjectID = "RyA-BT-lYr"; */
+"RyA-BT-lYr.segmentTitles[1]" = "mmHg";
+
+/* Class = "UISegmentedControl"; RyA-BT-lYr.segmentTitles[2] = "inHg"; ObjectID = "RyA-BT-lYr"; */
+"RyA-BT-lYr.segmentTitles[2]" = "inHg";
+
+/* Class = "UILabel"; text = "km"; ObjectID = "RyX-Tx-Rrb"; */
+"RyX-Tx-Rrb.text" = "km";
+
+/* Class = "UIButton"; normalTitle = "10'"; ObjectID = "RzW-md-YQJ"; */
+"RzW-md-YQJ.normalTitle" = "10'";
+
+/* Class = "UITextView"; text = "1l = 0.72 kg"; ObjectID = "S2x-Di-hbo"; */
+"S2x-Di-hbo.text" = "1l = 0.72 kg";
+
+/* Class = "UILabel"; text = "Godzinowe zużycie paliwa"; ObjectID = "S3y-Yt-B08"; */
+"S3y-Yt-B08.text" = "Godzinowe zużycie paliwa";
+
+/* Class = "UIButton"; normalTitle = "1'"; ObjectID = "SbO-k0-fQ3"; */
+"SbO-k0-fQ3.normalTitle" = "1'";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "SdS-bn-6e6"; */
+"SdS-bn-6e6.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "LPH"; ObjectID = "SjS-x2-vTA"; */
+"SjS-x2-vTA.text" = "LPH";
+
+/* Class = "UILabel"; text = "Kierunek wiatru"; ObjectID = "Sku-6x-P46"; */
+"Sku-6x-P46.text" = "Kierunek wiatru";
+
+/* Class = "UIViewController"; title = "Prędkość rzeczywista TAS"; ObjectID = "SsQ-wN-SoP"; */
+"SsQ-wN-SoP.title" = "Prędkość rzeczywista TAS";
+
+/* Class = "UILabel"; text = "°C"; ObjectID = "TIb-Ke-Xxh"; */
+"TIb-Ke-Xxh.text" = "°C";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "TJW-3a-er1"; */
+"TJW-3a-er1.text" = "%";
+
+/* Class = "UILabel"; text = "KT"; ObjectID = "ToL-wb-UdL"; */
+"ToL-wb-UdL.text" = "KT";
+
+/* Class = "UIButton"; normalTitle = "100"; ObjectID = "TqA-OB-vok"; */
+"TqA-OB-vok.normalTitle" = "100";
+
+/* Class = "UISegmentedControl"; Ufd-xR-uBh.segmentTitles[0] = "m"; ObjectID = "Ufd-xR-uBh"; */
+"Ufd-xR-uBh.segmentTitles[0]" = "m";
+
+/* Class = "UISegmentedControl"; Ufd-xR-uBh.segmentTitles[1] = "ft"; ObjectID = "Ufd-xR-uBh"; */
+"Ufd-xR-uBh.segmentTitles[1]" = "ft";
+
+/* Class = "UIButton"; normalTitle = "80"; ObjectID = "Ulr-9y-V7E"; */
+"Ulr-9y-V7E.normalTitle" = "80";
+
+/* Class = "UILabel"; text = "Objętość / ciężar"; ObjectID = "V2L-n3-Rf0"; */
+"V2L-n3-Rf0.text" = "Objętość / ciężar";
+
+/* Class = "UILabel"; text = "Kierunek wiatru"; ObjectID = "V9d-VQ-3dX"; */
+"V9d-VQ-3dX.text" = "Kierunek wiatru";
+
+/* Class = "UIButton"; normalTitle = "1'"; ObjectID = "VKK-2J-8Lr"; */
+"VKK-2J-8Lr.normalTitle" = "1'";
+
+/* Class = "UILabel"; text = "Wartości kątowe"; ObjectID = "Vm5-nW-Y0w"; */
+"Vm5-nW-Y0w.text" = "Wartości kątowe";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "Vtc-Qi-uYj"; */
+"Vtc-Qi-uYj.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "JET A1 (AVTUR)"; ObjectID = "W8P-aN-ErX"; */
+"W8P-aN-ErX.text" = "JET A1 (AVTUR)";
+
+/* Class = "UILabel"; text = "km"; ObjectID = "WDr-I0-Hgd"; */
+"WDr-I0-Hgd.text" = "km";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "WaM-bY-Wkp"; */
+"WaM-bY-Wkp.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "°C"; ObjectID = "WeD-t5-Rjk"; */
+"WeD-t5-Rjk.text" = "°C";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "XOB-z1-c2r"; */
+"XOB-z1-c2r.normalTitle" = "-";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "XYG-q7-3Im"; */
+"XYG-q7-3Im.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "kph"; ObjectID = "Xbo-hY-T4S"; */
+"Xbo-hY-T4S.text" = "kph";
+
+/* Class = "UILabel"; text = "Masa"; ObjectID = "XcZ-B2-X1Z"; */
+"XcZ-B2-X1Z.text" = "Masa";
+
+/* Class = "UILabel"; text = "m"; ObjectID = "Xhi-8g-Ctm"; */
+"Xhi-8g-Ctm.text" = "m";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "YFV-b9-OKz"; */
+"YFV-b9-OKz.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "Heading (HDG)"; ObjectID = "YQv-jF-FyT"; */
+"YQv-jF-FyT.text" = "Heading (HDG)";
+
+/* Class = "UILabel"; text = "Wysokość"; ObjectID = "Yhp-c0-nUe"; */
+"Yhp-c0-nUe.text" = "Wysokość";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "YlW-Wu-nod"; */
+"YlW-Wu-nod.normalTitle" = "+";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "Ymf-y1-ChI"; */
+"Ymf-y1-ChI.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "Prędkość pionowa"; ObjectID = "Ynz-pn-ltN"; */
+"Ynz-pn-ltN.text" = "Prędkość pionowa";
+
+/* Class = "UIViewController"; title = "Ścieżka schodzenia"; ObjectID = "Z9h-NB-5DH"; */
+"Z9h-NB-5DH.title" = "Ścieżka schodzenia";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "ZW5-Oo-cG5"; */
+"ZW5-Oo-cG5.normalTitle" = "-";
+
+/* Class = "UIButton"; normalTitle = "60'"; ObjectID = "ay0-MT-xZi"; */
+"ay0-MT-xZi.normalTitle" = "60'";
+
+/* Class = "UISegmentedControl"; bFZ-rN-2wA.segmentTitles[0] = "°"; ObjectID = "bFZ-rN-2wA"; */
+"bFZ-rN-2wA.segmentTitles[0]" = "°";
+
+/* Class = "UISegmentedControl"; bFZ-rN-2wA.segmentTitles[1] = "rad"; ObjectID = "bFZ-rN-2wA"; */
+"bFZ-rN-2wA.segmentTitles[1]" = "rad";
+
+/* Class = "UILabel"; text = "hPa"; ObjectID = "bS6-Y9-tim"; */
+"bS6-Y9-tim.text" = "hPa";
+
+/* Class = "UITextView"; text = "Dla standardowej 3° ścieżki podejścia można stosować tak zwaną \"Regułę 3\"."; ObjectID = "bg8-Dr-2iS"; */
+"bg8-Dr-2iS.text" = "Dla standardowej 3° ścieżki podejścia można stosować tak zwaną \"Regułę 3\".";
+
+/* Class = "UIButton"; normalTitle = "100"; ObjectID = "bm3-kU-lRb"; */
+"bm3-kU-lRb.normalTitle" = "100";
+
+/* Class = "UIButton"; normalTitle = "5'"; ObjectID = "bw7-4f-L5f"; */
+"bw7-4f-L5f.normalTitle" = "5'";
+
+/* Class = "UILabel"; text = "KPH"; ObjectID = "cCZ-I2-xEG"; */
+"cCZ-I2-xEG.text" = "KPH";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "cJk-HC-XD8"; */
+"cJk-HC-XD8.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "ft/min"; ObjectID = "cV6-g6-2NF"; */
+"cV6-g6-2NF.text" = "ft/min";
+
+/* Class = "UIButton"; normalTitle = "150"; ObjectID = "cbg-se-4Ab"; */
+"cbg-se-4Ab.normalTitle" = "150";
+
+/* Class = "UIViewController"; title = "Godzinowe zużycie paliwa"; ObjectID = "d9R-eU-c1V"; */
+"d9R-eU-c1V.title" = "Godzinowe zużycie paliwa";
+
+/* Class = "UILabel"; text = "Rodzaj paliwa"; ObjectID = "dD3-gL-DZu"; */
+"dD3-gL-DZu.text" = "Rodzaj paliwa";
+
+/* Class = "UILabel"; text = "Kierunek lotu"; ObjectID = "dK4-Vt-C61"; */
+"dK4-Vt-C61.text" = "Kierunek lotu";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "dMJ-wH-PaG"; */
+"dMJ-wH-PaG.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "°"; ObjectID = "dPe-TC-LCq"; */
+"dPe-TC-LCq.text" = "°";
+
+/* Class = "UILabel"; text = "kg"; ObjectID = "dgk-AL-5B8"; */
+"dgk-AL-5B8.text" = "kg";
+
+/* Class = "UILabel"; text = "Prędkość postępowa"; ObjectID = "dh0-bu-K98"; */
+"dh0-bu-K98.text" = "Prędkość postępowa";
+
+/* Class = "UIButton"; normalTitle = "50"; ObjectID = "dld-AK-4vs"; */
+"dld-AK-4vs.normalTitle" = "50";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "dnd-Ec-IPC"; */
+"dnd-Ec-IPC.text" = "0";
+
+/* Class = "UILabel"; text = "Ścieżka schodzenia"; ObjectID = "dpU-a8-QQp"; */
+"dpU-a8-QQp.text" = "Ścieżka schodzenia";
+
+/* Class = "UILabel"; text = "Boczna składowa wiatru"; ObjectID = "ds4-eN-V1l"; */
+"ds4-eN-V1l.text" = "Boczna składowa wiatru";
+
+/* Class = "UILabel"; text = "m"; ObjectID = "eF4-sx-zsA"; */
+"eF4-sx-zsA.text" = "m";
+
+/* Class = "UILabel"; text = "Ciśnienie"; ObjectID = "eQ1-c5-ofC"; */
+"eQ1-c5-ofC.text" = "Ciśnienie";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "eUS-1K-NgL"; */
+"eUS-1K-NgL.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "000.0"; ObjectID = "ehz-Xa-a0h"; */
+"ehz-Xa-a0h.text" = "000.0";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "emK-bf-BLZ"; */
+"emK-bf-BLZ.title" = " ";
+
+/* Class = "UISegmentedControl"; g7O-hV-xiZ.segmentTitles[0] = "km"; ObjectID = "g7O-hV-xiZ"; */
+"g7O-hV-xiZ.segmentTitles[0]" = "km";
+
+/* Class = "UISegmentedControl"; g7O-hV-xiZ.segmentTitles[1] = "NM"; ObjectID = "g7O-hV-xiZ"; */
+"g7O-hV-xiZ.segmentTitles[1]" = "NM";
+
+/* Class = "UISegmentedControl"; g7O-hV-xiZ.segmentTitles[2] = "SM"; ObjectID = "g7O-hV-xiZ"; */
+"g7O-hV-xiZ.segmentTitles[2]" = "SM";
+
+/* Class = "UITextView"; text = "Aby w pamięci obliczyć współczynnik (Rate) \nzniżania wyrażony w ft/NM można posłużyć się poniższymi zależnościami:"; ObjectID = "gGb-CC-ZNc"; */
+"gGb-CC-ZNc.text" = "Aby w pamięci obliczyć współczynnik (Rate) \nzniżania wyrażony w ft/NM można posłużyć się poniższymi zależnościami:";
+
+/* Class = "UIButton"; normalTitle = "DOWIEDZ SIĘ WIĘCEJ"; ObjectID = "geG-Dv-0pS"; */
+"geG-Dv-0pS.normalTitle" = "DOWIEDZ SIĘ WIĘCEJ";
+
+/* Class = "UITextView"; text = "Obliczenia bazują na międzynarodowej atmosferze wzorcowej (ISA) . \nPrzyjmuje się współczynniki dla temperatury panującej na średnim poziome morza (MSL)"; ObjectID = "h7C-8z-Yzs"; */
+"h7C-8z-Yzs.text" = "Obliczenia bazują na międzynarodowej atmosferze wzorcowej (ISA) . \nPrzyjmuje się współczynniki dla temperatury panującej na średnim poziome morza (MSL)";
+
+/* Class = "UILabel"; text = "Dystans"; ObjectID = "hHt-b3-Ssz"; */
+"hHt-b3-Ssz.text" = "Dystans";
+
+/* Class = "UILabel"; text = "0000.0"; ObjectID = "hI5-qg-J2d"; */
+"hI5-qg-J2d.text" = "0000.0";
+
+/* Class = "UILabel"; text = "Rodzaj paliwa"; ObjectID = "hKn-TL-i5O"; */
+"hKn-TL-i5O.text" = "Rodzaj paliwa";
+
+/* Class = "UIButton"; normalTitle = "DOMYŚLNE ZUŻYCIE PALIWA"; ObjectID = "hPG-vJ-OsV"; */
+"hPG-vJ-OsV.normalTitle" = "DOMYŚLNE ZUŻYCIE PALIWA";
+
+/* Class = "UILabel"; text = "L"; ObjectID = "hRd-0y-jal"; */
+"hRd-0y-jal.text" = "L";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "hU9-L8-Dgl"; */
+"hU9-L8-Dgl.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "hhN-gA-7Hj"; */
+"hhN-gA-7Hj.text" = "0";
+
+/* Class = "UILabel"; text = "KPH"; ObjectID = "hiu-DL-wjH"; */
+"hiu-DL-wjH.text" = "KPH";
+
+/* Class = "UILabel"; text = "KPH"; ObjectID = "hvt-DK-yMs"; */
+"hvt-DK-yMs.text" = "KPH";
+
+/* Class = "UIButton"; normalTitle = "180"; ObjectID = "hx5-o9-0HE"; */
+"hx5-o9-0HE.normalTitle" = "180";
+
+/* Class = "UITextView"; text = "Rate (ft/NM) ≈ 100 x Rate (°)"; ObjectID = "iL6-kp-YZV"; */
+"iL6-kp-YZV.text" = "Rate (ft/NM) ≈ 100 x Rate (°)";
+
+/* Class = "UILabel"; text = "ft/min"; ObjectID = "izL-KO-LRm"; */
+"izL-KO-LRm.text" = "ft/min";
+
+/* Class = "UITextView"; text = "1l = 0.79 kg"; ObjectID = "jJw-EF-8kW"; */
+"jJw-EF-8kW.text" = "1l = 0.79 kg";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "jUf-cU-obU"; */
+"jUf-cU-obU.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "jah-aL-GZn"; */
+"jah-aL-GZn.text" = "0";
+
+/* Class = "UITextView"; text = "1° = 100 ft/NM"; ObjectID = "jkS-8B-S7I"; */
+"jkS-8B-S7I.text" = "1° = 100 ft/NM";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "ko7-wn-6VP"; */
+"ko7-wn-6VP.normalTitle" = "1";
+
+/* Class = "UILabel"; text = "Elewacja lotniska"; ObjectID = "kqF-ys-w6n"; */
+"kqF-ys-w6n.text" = "Elewacja lotniska";
+
+/* Class = "UISegmentedControl"; kql-XK-rOr.segmentTitles[0] = "KPH"; ObjectID = "kql-XK-rOr"; */
+"kql-XK-rOr.segmentTitles[0]" = "KPH";
+
+/* Class = "UISegmentedControl"; kql-XK-rOr.segmentTitles[1] = "KT"; ObjectID = "kql-XK-rOr"; */
+"kql-XK-rOr.segmentTitles[1]" = "KT";
+
+/* Class = "UISegmentedControl"; kql-XK-rOr.segmentTitles[2] = "MPH"; ObjectID = "kql-XK-rOr"; */
+"kql-XK-rOr.segmentTitles[2]" = "MPH";
+
+/* Class = "UILabel"; text = "15"; ObjectID = "lLW-VC-XZt"; */
+"lLW-VC-XZt.text" = "15";
+
+/* Class = "UITableViewSection"; headerTitle = "PRĘDKOŚĆ/DYSTANS/CZAS"; ObjectID = "lO3-1O-1jP"; */
+"lO3-1O-1jP.headerTitle" = "PRĘDKOŚĆ/DYSTANS/CZAS";
+
+/* Class = "UILabel"; text = "00.0"; ObjectID = "lOu-jR-Mah"; */
+"lOu-jR-Mah.text" = "00.0";
+
+/* Class = "UITableViewSection"; headerTitle = "Podstawowe"; ObjectID = "lc3-CE-hOA"; */
+"lc3-CE-hOA.headerTitle" = "Podstawowe";
+
+/* Class = "UILabel"; text = "L"; ObjectID = "mBR-zs-irz"; */
+"mBR-zs-irz.text" = "L";
+
+/* Class = "UILabel"; text = "mm:ss"; ObjectID = "mCo-65-77B"; */
+"mCo-65-77B.text" = "mm:ss";
+
+/* Class = "UILabel"; text = "km"; ObjectID = "mPE-an-rnO"; */
+"mPE-an-rnO.text" = "km";
+
+/* Class = "UILabel"; text = "KPH"; ObjectID = "moq-h9-ja3"; */
+"moq-h9-ja3.text" = "KPH";
+
+/* Class = "UILabel"; text = "JET A1 (AVTUR)"; ObjectID = "nQC-uV-I7D"; */
+"nQC-uV-I7D.text" = "JET A1 (AVTUR)";
+
+/* Class = "UIButton"; normalTitle = "5'"; ObjectID = "nVc-ma-qXJ"; */
+"nVc-ma-qXJ.normalTitle" = "5'";
+
+/* Class = "UILabel"; text = "00 : 00 : 00"; ObjectID = "ng4-aW-Bef"; */
+"ng4-aW-Bef.text" = "00 : 00 : 00";
+
+/* Class = "UIButton"; normalTitle = "5'"; ObjectID = "njQ-r1-784"; */
+"njQ-r1-784.normalTitle" = "5'";
+
+/* Class = "UITableViewSection"; headerTitle = "Dodatkowe"; ObjectID = "nmg-b0-X7J"; */
+"nmg-b0-X7J.headerTitle" = "Dodatkowe";
+
+/* Class = "UITextView"; text = "DA = PA(ft) x (120 x (OAT - ISA)"; ObjectID = "o9q-dd-gNJ"; */
+"o9q-dd-gNJ.text" = "DA = PA(ft) x (120 x (OAT - ISA)";
+
+/* Class = "UILabel"; text = "1013.25"; ObjectID = "oPm-Ot-Pju"; */
+"oPm-Ot-Pju.text" = "1013.25";
+
+/* Class = "UITextView"; text = "Temperatura ISA to wartość standardowej temperatury panującej na danej wysokości. Na poziomie morza wynosi ona 15°C. \nWraz ze wzrotem wysokości o 1 000 ft przyjmuje się, że temperatura spada o 2°C"; ObjectID = "obn-GN-FME"; */
+"obn-GN-FME.text" = "Temperatura ISA to wartość standardowej temperatury panującej na danej wysokości. Na poziomie morza wynosi ona 15°C. \nWraz ze wzrotem wysokości o 1 000 ft przyjmuje się, że temperatura spada o 2°C";
+
+/* Class = "UIButton"; normalTitle = "1'"; ObjectID = "p6g-uC-lCM"; */
+"p6g-uC-lCM.normalTitle" = "1'";
+
+/* Class = "UILabel"; text = "000"; ObjectID = "pv4-9b-IPV"; */
+"pv4-9b-IPV.text" = "000";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "q1L-ay-7J4"; */
+"q1L-ay-7J4.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "000"; ObjectID = "qKs-Of-pNW"; */
+"qKs-Of-pNW.text" = "000";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "qce-NE-0oT"; */
+"qce-NE-0oT.normalTitle" = "-";
+
+/* Class = "UIViewController"; title = "Wysokość gęstościowa"; ObjectID = "qfV-M8-4cS"; */
+"qfV-M8-4cS.title" = "Wysokość gęstościowa";
+
+/* Class = "UILabel"; text = "00.0"; ObjectID = "rHO-3t-h2f"; */
+"rHO-3t-h2f.text" = "00.0";
+
+/* Class = "UITextView"; text = "Rate (ft/NM) ≈ 60 x Rate (%)"; ObjectID = "rWz-UB-8OA"; */
+"rWz-UB-8OA.text" = "Rate (ft/NM) ≈ 60 x Rate (%)";
+
+/* Class = "UIViewController"; title = "Czas lotu"; ObjectID = "s5y-qO-w0d"; */
+"s5y-qO-w0d.title" = "Czas lotu";
+
+/* Class = "UILabel"; text = "00.0"; ObjectID = "s5z-mC-CmU"; */
+"s5z-mC-CmU.text" = "00.0";
+
+/* Class = "UILabel"; text = "HH : MM : SS"; ObjectID = "sA2-r5-hOg"; */
+"sA2-r5-hOg.text" = "HH : MM : SS";
+
+/* Class = "UILabel"; text = "000"; ObjectID = "sMw-sG-cpY"; */
+"sMw-sG-cpY.text" = "000";
+
+/* Class = "UILabel"; text = "°"; ObjectID = "saf-jm-sv4"; */
+"saf-jm-sv4.text" = "°";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "t45-qE-0kU"; */
+"t45-qE-0kU.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "L"; ObjectID = "tFN-gj-td9"; */
+"tFN-gj-td9.text" = "L";
+
+/* Class = "UILabel"; text = "LPH"; ObjectID = "tUB-Ms-731"; */
+"tUB-Ms-731.text" = "LPH";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "tXc-Tm-udl"; */
+"tXc-Tm-udl.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "000"; ObjectID = "tgy-dV-R2Q"; */
+"tgy-dV-R2Q.text" = "000";
+
+/* Class = "UITabBarController"; title = "MainVC"; ObjectID = "uLe-Sh-eYb"; */
+"uLe-Sh-eYb.title" = "MainVC";
+
+/* Class = "UITextView"; text = "1013.25 hPa = 760mmHg = 29.92inHg"; ObjectID = "uTo-be-NLF"; */
+"uTo-be-NLF.text" = "1013.25 hPa = 760mmHg = 29.92inHg";
+
+/* Class = "UITextView"; text = "W ciepły i wilgotny dzień, SP będzie przyspieszał wolniej, będzie potrzebował dłuższego rozbiegu, będzie potrzebował większej prędkości do zapewnienia niezbędnej do startu siły nośnej \na także będzie wolniej się wznosił."; ObjectID = "ucD-H5-onZ"; */
+"ucD-H5-onZ.text" = "W ciepły i wilgotny dzień, SP będzie przyspieszał wolniej, będzie potrzebował dłuższego rozbiegu, będzie potrzebował większej prędkości do zapewnienia niezbędnej do startu siły nośnej \na także będzie wolniej się wznosił.";
+
+/* Class = "UITextView"; text = "Wraz ze wzrostem temperatury oraz wysokości, gęstość powietrza maleje. Duża wysokość gęstościowa wpływa znacząco na osiągi statku powietrznego."; ObjectID = "v97-gz-l04"; */
+"v97-gz-l04.text" = "Wraz ze wzrostem temperatury oraz wysokości, gęstość powietrza maleje. Duża wysokość gęstościowa wpływa znacząco na osiągi statku powietrznego.";
+
+/* Class = "UISegmentedControl"; vE6-e4-ADU.segmentTitles[0] = "kg"; ObjectID = "vE6-e4-ADU"; */
+"vE6-e4-ADU.segmentTitles[0]" = "kg";
+
+/* Class = "UISegmentedControl"; vE6-e4-ADU.segmentTitles[1] = "lb"; ObjectID = "vE6-e4-ADU"; */
+"vE6-e4-ADU.segmentTitles[1]" = "lb";
+
+/* Class = "UILabel"; text = "ft/min"; ObjectID = "vWv-SZ-YRz"; */
+"vWv-SZ-YRz.text" = "ft/min";
+
+/* Class = "UIViewController"; title = "Rodzaj paliwa"; ObjectID = "vqZ-ma-iiU"; */
+"vqZ-ma-iiU.title" = "Rodzaj paliwa";
+
+/* Class = "UIButton"; normalTitle = "DOWIEDZ SIĘ WIĘCEJ"; ObjectID = "w1F-Nv-sOV"; */
+"w1F-Nv-sOV.normalTitle" = "DOWIEDZ SIĘ WIĘCEJ";
+
+/* Class = "UIViewController"; title = "Długotrwałość lotu"; ObjectID = "w61-81-Jdn"; */
+"w61-81-Jdn.title" = "Długotrwałość lotu";
+
+/* Class = "UILabel"; text = "HH : MM : SS"; ObjectID = "we9-nS-m24"; */
+"we9-nS-m24.text" = "HH : MM : SS";
+
+/* Class = "UILabel"; text = "Paliwo"; ObjectID = "weP-wG-cWh"; */
+"weP-wG-cWh.text" = "Paliwo";
+
+/* Class = "UILabel"; text = "Długotrwałość lotu"; ObjectID = "xEP-qL-y7l"; */
+"xEP-qL-y7l.text" = "Długotrwałość lotu";
+
+/* Class = "UILabel"; text = "JET A1 (AVTUR)"; ObjectID = "xgu-fL-ue6"; */
+"xgu-fL-ue6.text" = "JET A1 (AVTUR)";
+
+/* Class = "UILabel"; text = "Temperatura"; ObjectID = "xte-22-hBN"; */
+"xte-22-hBN.text" = "Temperatura";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "yEQ-Cl-eep"; */
+"yEQ-Cl-eep.normalTitle" = "-";
+
+/* Class = "UITableViewController"; title = "Jednostki"; ObjectID = "yLO-2l-zfb"; */
+"yLO-2l-zfb.title" = "Jednostki";
+
+/* Class = "UILabel"; text = "hPa"; ObjectID = "z5i-iy-cDC"; */
+"z5i-iy-cDC.text" = "hPa";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "zGV-3n-RvX"; */
+"zGV-3n-RvX.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "kph"; ObjectID = "zfA-xC-N8O"; */
+"zfA-xC-N8O.text" = "kph";

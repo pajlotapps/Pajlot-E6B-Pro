@@ -1,0 +1,327 @@
+
+/* Class = "UILabel"; text = "Kreator  ustawień początkowych"; ObjectID = "0Bb-Vl-A0o"; */
+"0Bb-Vl-A0o.text" = "Kreator  ustawień początkowych";
+
+/* Class = "UILabel"; text = "W przyszłości możesz zmenić te wartości w zakładach \nUstawienia oraz Jendnostki."; ObjectID = "0n2-qJ-QCE"; */
+"0n2-qJ-QCE.text" = "W przyszłości możesz zmenić te wartości w zakładach \nUstawienia oraz Jendnostki.";
+
+/* Class = "UIButton"; normalTitle = "DALEJ"; ObjectID = "0nl-Ri-6QJ"; */
+"0nl-Ri-6QJ.normalTitle" = "DALEJ";
+
+/* Class = "UILabel"; text = "W przyszłości możesz zmenić te wartości w zakładach \nUstawienia oraz Jendnostki."; ObjectID = "15m-sg-mUh"; */
+"15m-sg-mUh.text" = "W przyszłości możesz zmenić te wartości w zakładach \nUstawienia oraz Jendnostki.";
+
+/* Class = "UISegmentedControl"; 1pR-TX-fUv.segmentTitles[0] = "°C"; ObjectID = "1pR-TX-fUv"; */
+"1pR-TX-fUv.segmentTitles[0]" = "°C";
+
+/* Class = "UISegmentedControl"; 1pR-TX-fUv.segmentTitles[1] = "°F"; ObjectID = "1pR-TX-fUv"; */
+"1pR-TX-fUv.segmentTitles[1]" = "°F";
+
+/* Class = "UISegmentedControl"; 1pR-TX-fUv.segmentTitles[2] = "K"; ObjectID = "1pR-TX-fUv"; */
+"1pR-TX-fUv.segmentTitles[2]" = "K";
+
+/* Class = "UILabel"; text = "Kreator  ustawień początkowych"; ObjectID = "2hy-Li-CO6"; */
+"2hy-Li-CO6.text" = "Kreator  ustawień początkowych";
+
+/* Class = "UIViewController"; title = "Ustawienia początkowe temperatura"; ObjectID = "2k6-tU-2eV"; */
+"2k6-tU-2eV.title" = "Ustawienia początkowe temperatura";
+
+/* Class = "UIButton"; normalTitle = "OPUŚĆ KREATOR"; ObjectID = "37D-mU-Um3"; */
+"37D-mU-Um3.normalTitle" = "OPUŚĆ KREATOR";
+
+/* Class = "UILabel"; text = "Kreator  ustawień początkowych"; ObjectID = "3hi-eu-hVs"; */
+"3hi-eu-hVs.text" = "Kreator  ustawień początkowych";
+
+/* Class = "UILabel"; text = "W przyszłości możesz zmenić te wartości w zakładach \nUstawienia oraz Jendnostki."; ObjectID = "41d-R7-9ey"; */
+"41d-R7-9ey.text" = "W przyszłości możesz zmenić te wartości w zakładach \nUstawienia oraz Jendnostki.";
+
+/* Class = "UIButton"; normalTitle = "OPUŚĆ KREATOR"; ObjectID = "4Z2-jx-DNq"; */
+"4Z2-jx-DNq.normalTitle" = "OPUŚĆ KREATOR";
+
+/* Class = "UILabel"; text = "Podaj wartość oraz jednostkę elewacji lotniska, która będzie używana do obliczeń."; ObjectID = "5uu-Aa-Euc"; */
+"5uu-Aa-Euc.text" = "Podaj wartość oraz jednostkę elewacji lotniska, która będzie używana do obliczeń.";
+
+/* Class = "UISegmentedControl"; 5wo-ZY-cvT.segmentTitles[0] = "km"; ObjectID = "5wo-ZY-cvT"; */
+"5wo-ZY-cvT.segmentTitles[0]" = "km";
+
+/* Class = "UISegmentedControl"; 5wo-ZY-cvT.segmentTitles[1] = "NM"; ObjectID = "5wo-ZY-cvT"; */
+"5wo-ZY-cvT.segmentTitles[1]" = "NM";
+
+/* Class = "UISegmentedControl"; 5wo-ZY-cvT.segmentTitles[2] = "SM"; ObjectID = "5wo-ZY-cvT"; */
+"5wo-ZY-cvT.segmentTitles[2]" = "SM";
+
+/* Class = "UIViewController"; title = "Ustawienia początkowe Deklinacja"; ObjectID = "6VV-dr-J9C"; */
+"6VV-dr-J9C.title" = "Ustawienia początkowe Deklinacja";
+
+/* Class = "UILabel"; text = "W przyszłości możesz zmenić te wartości w zakładach \nUstawienia oraz Jendnostki."; ObjectID = "6W9-mG-n6J"; */
+"6W9-mG-n6J.text" = "W przyszłości możesz zmenić te wartości w zakładach \nUstawienia oraz Jendnostki.";
+
+/* Class = "UIViewController"; title = "Informacje"; ObjectID = "6ss-gr-J84"; */
+"6ss-gr-J84.title" = "Informacje";
+
+/* Class = "UIButton"; normalTitle = "PRZEJDŹ DO KREATORA"; ObjectID = "6ux-TR-GAQ"; */
+"6ux-TR-GAQ.normalTitle" = "PRZEJDŹ DO KREATORA";
+
+/* Class = "UISegmentedControl"; 7Cr-n7-ALm.segmentTitles[0] = "l"; ObjectID = "7Cr-n7-ALm"; */
+"7Cr-n7-ALm.segmentTitles[0]" = "l";
+
+/* Class = "UISegmentedControl"; 7Cr-n7-ALm.segmentTitles[1] = "m³"; ObjectID = "7Cr-n7-ALm"; */
+"7Cr-n7-ALm.segmentTitles[1]" = "m³";
+
+/* Class = "UISegmentedControl"; 7k4-00-3Bg.segmentTitles[0] = "E"; ObjectID = "7k4-00-3Bg"; */
+"7k4-00-3Bg.segmentTitles[0]" = "E";
+
+/* Class = "UISegmentedControl"; 7k4-00-3Bg.segmentTitles[1] = "W"; ObjectID = "7k4-00-3Bg"; */
+"7k4-00-3Bg.segmentTitles[1]" = "W";
+
+/* Class = "UIViewController"; title = "Ustawienia początkowe - odległość"; ObjectID = "7nN-gN-zTy"; */
+"7nN-gN-zTy.title" = "Ustawienia początkowe - odległość";
+
+/* Class = "UISegmentedControl"; 7nl-oh-GJF.segmentTitles[0] = "m/s"; ObjectID = "7nl-oh-GJF"; */
+"7nl-oh-GJF.segmentTitles[0]" = "m/s";
+
+/* Class = "UISegmentedControl"; 7nl-oh-GJF.segmentTitles[1] = "ft/min"; ObjectID = "7nl-oh-GJF"; */
+"7nl-oh-GJF.segmentTitles[1]" = "ft/min";
+
+/* Class = "UILabel"; text = "Kreator  ustawień początkowych"; ObjectID = "8ok-Dv-Qk1"; */
+"8ok-Dv-Qk1.text" = "Kreator  ustawień początkowych";
+
+/* Class = "UITextView"; text = "Jesli opuścisz kreator przed uzupełnieniem wszystkich ekranów, aplikacja wczyta wartości domyślne."; ObjectID = "9cy-P2-UPB"; */
+"9cy-P2-UPB.text" = "Jesli opuścisz kreator przed uzupełnieniem wszystkich ekranów, aplikacja wczyta wartości domyślne.";
+
+/* Class = "UIButton"; normalTitle = "OPUŚĆ KREATOR"; ObjectID = "AFR-tO-FIW"; */
+"AFR-tO-FIW.normalTitle" = "OPUŚĆ KREATOR";
+
+/* Class = "UILabel"; text = "W przyszłości możesz zmenić te wartości w zakładach \nUstawienia oraz Jendnostki."; ObjectID = "Ca6-Kw-v8f"; */
+"Ca6-Kw-v8f.text" = "W przyszłości możesz zmenić te wartości w zakładach \nUstawienia oraz Jendnostki.";
+
+/* Class = "UISegmentedControl"; D5q-Bd-Ois.segmentTitles[0] = "°"; ObjectID = "D5q-Bd-Ois"; */
+"D5q-Bd-Ois.segmentTitles[0]" = "°";
+
+/* Class = "UISegmentedControl"; D5q-Bd-Ois.segmentTitles[1] = "rad"; ObjectID = "D5q-Bd-Ois"; */
+"D5q-Bd-Ois.segmentTitles[1]" = "rad";
+
+/* Class = "UIButton"; normalTitle = "OPUŚĆ KREATOR"; ObjectID = "ENM-5F-M0U"; */
+"ENM-5F-M0U.normalTitle" = "OPUŚĆ KREATOR";
+
+/* Class = "UISegmentedControl"; H9J-lC-IEL.segmentTitles[0] = "KPH"; ObjectID = "H9J-lC-IEL"; */
+"H9J-lC-IEL.segmentTitles[0]" = "KPH";
+
+/* Class = "UISegmentedControl"; H9J-lC-IEL.segmentTitles[1] = "KT"; ObjectID = "H9J-lC-IEL"; */
+"H9J-lC-IEL.segmentTitles[1]" = "KT";
+
+/* Class = "UISegmentedControl"; H9J-lC-IEL.segmentTitles[2] = "MPH"; ObjectID = "H9J-lC-IEL"; */
+"H9J-lC-IEL.segmentTitles[2]" = "MPH";
+
+/* Class = "UILabel"; text = "Kreator  ustawień początkowych"; ObjectID = "JoB-pF-bjw"; */
+"JoB-pF-bjw.text" = "Kreator  ustawień początkowych";
+
+/* Class = "UILabel"; text = "Podaj wartość oraz jednostkę temperatury powietrza, która będzie używana do obliczeń."; ObjectID = "LV1-AZ-pVA"; */
+"LV1-AZ-pVA.text" = "Podaj wartość oraz jednostkę temperatury powietrza, która będzie używana do obliczeń.";
+
+/* Class = "UIButton"; normalTitle = "DALEJ"; ObjectID = "LqZ-8Q-rkn"; */
+"LqZ-8Q-rkn.normalTitle" = "DALEJ";
+
+/* Class = "UIButton"; normalTitle = "DALEJ"; ObjectID = "OHh-gH-vdQ"; */
+"OHh-gH-vdQ.normalTitle" = "DALEJ";
+
+/* Class = "UILabel"; text = "Podaj wartość oraz jednostkę ciśnienia atmosferycznego, która będzie używana do obliczeń."; ObjectID = "R8F-R3-sTb"; */
+"R8F-R3-sTb.text" = "Podaj wartość oraz jednostkę ciśnienia atmosferycznego, która będzie używana do obliczeń.";
+
+/* Class = "UIViewController"; title = "Ustawienia początkowe - prędkość"; ObjectID = "RTq-jL-4Yi"; */
+"RTq-jL-4Yi.title" = "Ustawienia początkowe - prędkość";
+
+/* Class = "UIButton"; normalTitle = "OPUŚĆ KREATOR"; ObjectID = "S1c-7e-Dbu"; */
+"S1c-7e-Dbu.normalTitle" = "OPUŚĆ KREATOR";
+
+/* Class = "UISegmentedControl"; Tai-MJ-7a9.segmentTitles[0] = "HH : MM : SS"; ObjectID = "Tai-MJ-7a9"; */
+"Tai-MJ-7a9.segmentTitles[0]" = "HH : MM : SS";
+
+/* Class = "UISegmentedControl"; Tai-MJ-7a9.segmentTitles[1] = "MM : SS"; ObjectID = "Tai-MJ-7a9"; */
+"Tai-MJ-7a9.segmentTitles[1]" = "MM : SS";
+
+/* Class = "UISegmentedControl"; Tai-MJ-7a9.segmentTitles[2] = "SS"; ObjectID = "Tai-MJ-7a9"; */
+"Tai-MJ-7a9.segmentTitles[2]" = "SS";
+
+/* Class = "UIViewController"; title = "Ustawienia początkowe"; ObjectID = "U0Z-mk-0PF"; */
+"U0Z-mk-0PF.title" = "Ustawienia początkowe";
+
+/* Class = "UIButton"; normalTitle = "DALEJ"; ObjectID = "Ufm-5K-Sry"; */
+"Ufm-5K-Sry.normalTitle" = "DALEJ";
+
+/* Class = "UISegmentedControl"; Ujj-Ny-TAC.segmentTitles[0] = "l"; ObjectID = "Ujj-Ny-TAC"; */
+"Ujj-Ny-TAC.segmentTitles[0]" = "l";
+
+/* Class = "UISegmentedControl"; Ujj-Ny-TAC.segmentTitles[1] = "kg"; ObjectID = "Ujj-Ny-TAC"; */
+"Ujj-Ny-TAC.segmentTitles[1]" = "kg";
+
+/* Class = "UISegmentedControl"; Ujj-Ny-TAC.segmentTitles[2] = "lb"; ObjectID = "Ujj-Ny-TAC"; */
+"Ujj-Ny-TAC.segmentTitles[2]" = "lb";
+
+/* Class = "UIViewController"; title = "Ustawienia początkowe elewacja"; ObjectID = "V6J-c7-xyt"; */
+"V6J-c7-xyt.title" = "Ustawienia początkowe elewacja";
+
+/* Class = "UILabel"; text = "Kreator  ustawień początkowych"; ObjectID = "Vm8-cP-7FU"; */
+"Vm8-cP-7FU.text" = "Kreator  ustawień początkowych";
+
+/* Class = "UITextView"; text = "Możesz w każdej chwili zaktualizować te wartości wchodząc w zakładkę ustawień."; ObjectID = "VuP-mh-mly"; */
+"VuP-mh-mly.text" = "Możesz w każdej chwili zaktualizować te wartości wchodząc w zakładkę ustawień.";
+
+/* Class = "UIButton"; normalTitle = "DOWIEDZ SIĘ WIĘCEJ"; ObjectID = "WAJ-Go-ZnF"; */
+"WAJ-Go-ZnF.normalTitle" = "DOWIEDZ SIĘ WIĘCEJ";
+
+/* Class = "UILabel"; text = "Dokonaj wyboru pozostałych jednostek:"; ObjectID = "WGU-nA-n6S"; */
+"WGU-nA-n6S.text" = "Dokonaj wyboru pozostałych jednostek:";
+
+/* Class = "UILabel"; text = "Kreator ustawień początkowych"; ObjectID = "WQd-Me-wJe"; */
+"WQd-Me-wJe.text" = "Kreator ustawień początkowych";
+
+/* Class = "UISegmentedControl"; Y4D-R2-5zT.segmentTitles[0] = "l/h"; ObjectID = "Y4D-R2-5zT"; */
+"Y4D-R2-5zT.segmentTitles[0]" = "l/h";
+
+/* Class = "UISegmentedControl"; Y4D-R2-5zT.segmentTitles[1] = "kg/h"; ObjectID = "Y4D-R2-5zT"; */
+"Y4D-R2-5zT.segmentTitles[1]" = "kg/h";
+
+/* Class = "UISegmentedControl"; Y4D-R2-5zT.segmentTitles[2] = "lbs/h"; ObjectID = "Y4D-R2-5zT"; */
+"Y4D-R2-5zT.segmentTitles[2]" = "lbs/h";
+
+/* Class = "UILabel"; text = "W przyszłości możesz zmenić te wartości w zakładach \nUstawienia oraz Jendnostki."; ObjectID = "Zd4-fe-AFY"; */
+"Zd4-fe-AFY.text" = "W przyszłości możesz zmenić te wartości w zakładach \nUstawienia oraz Jendnostki.";
+
+/* Class = "UIViewController"; title = "Ustawienia początkowe Ciśnienie"; ObjectID = "a9d-yq-rHy"; */
+"a9d-yq-rHy.title" = "Ustawienia początkowe Ciśnienie";
+
+/* Class = "UILabel"; text = "Kreator \nustawień początkowych"; ObjectID = "bAX-b7-sqo"; */
+"bAX-b7-sqo.text" = "Kreator \nustawień początkowych";
+
+/* Class = "UITextView"; text = "Kreator pomaga skonfigurować interfejs aplikacji. Wartości maksymalne służą do poprawnego działania sliderów poszczególnych funkcji, które mogą służyć do wprowadzania wartości"; ObjectID = "bku-IS-eLv"; */
+"bku-IS-eLv.text" = "Kreator pomaga skonfigurować interfejs aplikacji. Wartości maksymalne służą do poprawnego działania sliderów poszczególnych funkcji, które mogą służyć do wprowadzania wartości";
+
+/* Class = "UIButton"; normalTitle = "OPUŚĆ KREATOR"; ObjectID = "cGe-7g-usY"; */
+"cGe-7g-usY.normalTitle" = "OPUŚĆ KREATOR";
+
+/* Class = "UILabel"; text = "Podaj maksymalną wartość oraz jednostkę prędkości, która będzie używana do obliczeń."; ObjectID = "cve-3V-hgt"; */
+"cve-3V-hgt.text" = "Podaj maksymalną wartość oraz jednostkę prędkości, która będzie używana do obliczeń.";
+
+/* Class = "UILabel"; text = "Kreator  ustawień początkowych"; ObjectID = "dRk-fS-Lmb"; */
+"dRk-fS-Lmb.text" = "Kreator  ustawień początkowych";
+
+/* Class = "UILabel"; text = "Podaj wartość oraz jednostkę godzinowego zużycia paliwa, która będzie używana do obliczeń. Dodatkowo określ rodzaj paliwa."; ObjectID = "eob-tx-IiX"; */
+"eob-tx-IiX.text" = "Podaj wartość oraz jednostkę godzinowego zużycia paliwa, która będzie używana do obliczeń. Dodatkowo określ rodzaj paliwa.";
+
+/* Class = "UIButton"; normalTitle = "WCZYTAJ WARTOŚCI DOMYŚLNE"; ObjectID = "eqV-xz-7nj"; */
+"eqV-xz-7nj.normalTitle" = "WCZYTAJ WARTOŚCI DOMYŚLNE";
+
+/* Class = "UISegmentedControl"; eup-CV-rwO.segmentTitles[0] = "m"; ObjectID = "eup-CV-rwO"; */
+"eup-CV-rwO.segmentTitles[0]" = "m";
+
+/* Class = "UISegmentedControl"; eup-CV-rwO.segmentTitles[1] = "ft"; ObjectID = "eup-CV-rwO"; */
+"eup-CV-rwO.segmentTitles[1]" = "ft";
+
+/* Class = "UISegmentedControl"; eup-CV-rwO.segmentTitles[2] = "FL"; ObjectID = "eup-CV-rwO"; */
+"eup-CV-rwO.segmentTitles[2]" = "FL";
+
+/* Class = "UILabel"; text = "W przyszłości możesz zmenić te wartości w zakładach \nUstawienia oraz Jendnostki."; ObjectID = "gGh-u3-l4K"; */
+"gGh-u3-l4K.text" = "W przyszłości możesz zmenić te wartości w zakładach \nUstawienia oraz Jendnostki.";
+
+/* Class = "UILabel"; text = "Wczytaj wartości domyślne \nlub przejdź do \nkreatora ustawień początkowych"; ObjectID = "gPd-Kd-PUL"; */
+"gPd-Kd-PUL.text" = "Wczytaj wartości domyślne \nlub przejdź do \nkreatora ustawień początkowych";
+
+/* Class = "UIButton"; normalTitle = "ROZUMIEM"; ObjectID = "gmK-eY-Xhi"; */
+"gmK-eY-Xhi.normalTitle" = "ROZUMIEM";
+
+/* Class = "UILabel"; text = "Podaj maksymalną wartość oraz jednostkę odległości, która będzie używana do obliczeń."; ObjectID = "gzg-ij-bw6"; */
+"gzg-ij-bw6.text" = "Podaj maksymalną wartość oraz jednostkę odległości, która będzie używana do obliczeń.";
+
+/* Class = "UILabel"; text = "Podaj siłę i kierunek wiatru, które będą domyślnie używane do obliczeń."; ObjectID = "he9-p2-8PZ"; */
+"he9-p2-8PZ.text" = "Podaj siłę i kierunek wiatru, które będą domyślnie używane do obliczeń.";
+
+/* Class = "UILabel"; text = "Określ wartość i kierunek deklinacji magnetycznej (ΔM)."; ObjectID = "i3Z-Qm-IFz"; */
+"i3Z-Qm-IFz.text" = "Określ wartość i kierunek deklinacji magnetycznej (ΔM).";
+
+/* Class = "UISegmentedControl"; ihr-UB-rce.segmentTitles[0] = "hPa"; ObjectID = "ihr-UB-rce"; */
+"ihr-UB-rce.segmentTitles[0]" = "hPa";
+
+/* Class = "UISegmentedControl"; ihr-UB-rce.segmentTitles[1] = "mmHg"; ObjectID = "ihr-UB-rce"; */
+"ihr-UB-rce.segmentTitles[1]" = "mmHg";
+
+/* Class = "UISegmentedControl"; ihr-UB-rce.segmentTitles[2] = "inHg"; ObjectID = "ihr-UB-rce"; */
+"ihr-UB-rce.segmentTitles[2]" = "inHg";
+
+/* Class = "UIButton"; normalTitle = "DALEJ"; ObjectID = "ijv-Ud-fId"; */
+"ijv-Ud-fId.normalTitle" = "DALEJ";
+
+/* Class = "UILabel"; text = "W przyszłości możesz zmenić te wartości w zakładach \nUstawienia oraz Jendnostki."; ObjectID = "jCQ-yG-83X"; */
+"jCQ-yG-83X.text" = "W przyszłości możesz zmenić te wartości w zakładach \nUstawienia oraz Jendnostki.";
+
+/* Class = "UIButton"; normalTitle = "DALEJ"; ObjectID = "ljt-gG-6uf"; */
+"ljt-gG-6uf.normalTitle" = "DALEJ";
+
+/* Class = "UILabel"; text = "°"; ObjectID = "lmH-aA-009"; */
+"lmH-aA-009.text" = "°";
+
+/* Class = "UIButton"; normalTitle = "DALEJ"; ObjectID = "mBb-9w-74e"; */
+"mBb-9w-74e.normalTitle" = "DALEJ";
+
+/* Class = "UIButton"; normalTitle = "OPUŚĆ KREATOR"; ObjectID = "ohx-eC-SMI"; */
+"ohx-eC-SMI.normalTitle" = "OPUŚĆ KREATOR";
+
+/* Class = "UISegmentedControl"; onV-M6-Zms.segmentTitles[0] = "m"; ObjectID = "onV-M6-Zms"; */
+"onV-M6-Zms.segmentTitles[0]" = "m";
+
+/* Class = "UISegmentedControl"; onV-M6-Zms.segmentTitles[1] = "ft"; ObjectID = "onV-M6-Zms"; */
+"onV-M6-Zms.segmentTitles[1]" = "ft";
+
+/* Class = "UIViewController"; title = "Ustawienia początkowe wiatr"; ObjectID = "pO2-rB-rQ7"; */
+"pO2-rB-rQ7.title" = "Ustawienia początkowe wiatr";
+
+/* Class = "UILabel"; text = "W przyszłości możesz zmenić te wartości w zakładach \nUstawienia oraz Jendnostki."; ObjectID = "pOh-Cg-hfX"; */
+"pOh-Cg-hfX.text" = "W przyszłości możesz zmenić te wartości w zakładach \nUstawienia oraz Jendnostki.";
+
+/* Class = "UILabel"; text = "°"; ObjectID = "pvN-Ii-aR6"; */
+"pvN-Ii-aR6.text" = "°";
+
+/* Class = "UISegmentedControl"; s1r-VH-Lfp.segmentTitles[0] = "JET A1"; ObjectID = "s1r-VH-Lfp"; */
+"s1r-VH-Lfp.segmentTitles[0]" = "JET A1";
+
+/* Class = "UISegmentedControl"; s1r-VH-Lfp.segmentTitles[1] = "AVGAS"; ObjectID = "s1r-VH-Lfp"; */
+"s1r-VH-Lfp.segmentTitles[1]" = "AVGAS";
+
+/* Class = "UISegmentedControl"; s6P-j8-IjW.segmentTitles[0] = "m/s"; ObjectID = "s6P-j8-IjW"; */
+"s6P-j8-IjW.segmentTitles[0]" = "m/s";
+
+/* Class = "UISegmentedControl"; s6P-j8-IjW.segmentTitles[1] = "KT"; ObjectID = "s6P-j8-IjW"; */
+"s6P-j8-IjW.segmentTitles[1]" = "KT";
+
+/* Class = "UISegmentedControl"; s6P-j8-IjW.segmentTitles[2] = "KPH"; ObjectID = "s6P-j8-IjW"; */
+"s6P-j8-IjW.segmentTitles[2]" = "KPH";
+
+/* Class = "UIButton"; normalTitle = "DALEJ"; ObjectID = "sAl-xc-CED"; */
+"sAl-xc-CED.normalTitle" = "DALEJ";
+
+/* Class = "UIViewController"; title = "Ustawienia początkowe paliwo"; ObjectID = "sd8-iC-nMe"; */
+"sd8-iC-nMe.title" = "Ustawienia początkowe paliwo";
+
+/* Class = "UISegmentedControl"; te8-ps-dmU.segmentTitles[0] = "kg"; ObjectID = "te8-ps-dmU"; */
+"te8-ps-dmU.segmentTitles[0]" = "kg";
+
+/* Class = "UISegmentedControl"; te8-ps-dmU.segmentTitles[1] = "lb"; ObjectID = "te8-ps-dmU"; */
+"te8-ps-dmU.segmentTitles[1]" = "lb";
+
+/* Class = "UIViewController"; title = "Ustawienia początkowe Jednostki"; ObjectID = "uqq-Jb-Cpf"; */
+"uqq-Jb-Cpf.title" = "Ustawienia początkowe Jednostki";
+
+/* Class = "UIButton"; normalTitle = "OPUŚĆ KREATOR"; ObjectID = "vF1-18-sXg"; */
+"vF1-18-sXg.normalTitle" = "OPUŚĆ KREATOR";
+
+/* Class = "UITextView"; text = "I N F O R M A C J E"; ObjectID = "wYO-X0-ARr"; */
+"wYO-X0-ARr.text" = "I N F O R M A C J E";
+
+/* Class = "UITextView"; text = "Kreator pomoże także w wyborze rodzajów jednostek poszczególnych parametrów. Je także możesz \nw dowolnym momencie zmieniać. Wartości zostaną automatycznie przeliczone na nowe jednostki."; ObjectID = "y3X-fg-ae2"; */
+"y3X-fg-ae2.text" = "Kreator pomoże także w wyborze rodzajów jednostek poszczególnych parametrów. Je także możesz \nw dowolnym momencie zmieniać. Wartości zostaną automatycznie przeliczone na nowe jednostki.";
+
+/* Class = "UILabel"; text = "Kreator  ustawień początkowych"; ObjectID = "y5P-BH-lOk"; */
+"y5P-BH-lOk.text" = "Kreator  ustawień początkowych";
+
+/* Class = "UIButton"; normalTitle = "ZAKOŃCZ"; ObjectID = "zSG-JH-5YD"; */
+"zSG-JH-5YD.normalTitle" = "ZAKOŃCZ";

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11232" systemVersion="16A323" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="DefaultValue" representedClassName="DefaultValue" syncable="YES" codeGenerationType="class">
+        <attribute name="defElevation" attributeType="Float" minValueString="-4000" maxValueString="4000" defaultValueString="84" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="defFuelFlow" attributeType="Float" minValueString="1" maxValueString="1500" defaultValueString="450" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="defMagDec" attributeType="Float" minValueString="0" maxValueString="10" defaultValueString="5" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="defPressure" attributeType="Float" minValueString="0" maxValueString="1400" defaultValueString="1010" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="defTemp" attributeType="Float" minValueString="-50" maxValueString="50" defaultValueString="15" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="defWindDir" attributeType="Float" minValueString="0" maxValueString="360" defaultValueString="230" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="maxDistance" attributeType="Float" minValueString="0" maxValueString="500" defaultValueString="300" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="maxSpeed" attributeType="Float" minValueString="0" maxValueString="400" defaultValueString="160" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="maxWindSpeed" attributeType="Float" minValueString="0" maxValueString="35" defaultValueString="5" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <entity name="UnitsPreset" representedClassName="UnitsPreset" syncable="YES" codeGenerationType="class">
+        <attribute name="presetAngleUnit" attributeType="String" syncable="YES"/>
+        <attribute name="presetDistanceUnit" attributeType="String" syncable="YES"/>
+        <attribute name="presetHeightUnit" attributeType="String" syncable="YES"/>
+        <attribute name="presetPresureUnit" attributeType="String" syncable="YES"/>
+        <attribute name="presetSpeedUnit" attributeType="String" syncable="YES"/>
+        <attribute name="presetTempUnit" attributeType="String" syncable="YES"/>
+        <attribute name="presetTimeUnit" attributeType="String" syncable="YES"/>
+        <attribute name="presetVolumeUnit" attributeType="String" syncable="YES"/>
+        <attribute name="presetVSpeedUnit" attributeType="String" syncable="YES"/>
+        <attribute name="presetWeightUnit" attributeType="String" syncable="YES"/>
+        <attribute name="presetWindUnit" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="DefaultValue" positionX="-54" positionY="-9" width="128" height="180"/>
+        <element name="UnitsPreset" positionX="-63" positionY="-18" width="128" height="210"/>
+    </elements>
+</model>
